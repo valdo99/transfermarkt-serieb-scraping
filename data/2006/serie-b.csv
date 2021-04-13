@@ -1,0 +1,945 @@
+Club,Name,Age,Nationality,Position,Pos,MarketValue,ClubInvolved,CountryInvolved,Fee,Movement,Season,Window,League,Profile
+Bologna FC 1909,Marcello Castellini,33,Italy,Centre-Back,CB,£810Th.,UC Sampdoria,Italy,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/marcello-castellini/profil/spieler/5988
+Bologna FC 1909,Francesco Antonioli,36,Italy,Goalkeeper,GK,£765Th.,UC Sampdoria,Italy,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/francesco-antonioli/profil/spieler/5935
+Bologna FC 1909,Enrico Fantini,30,Italy,Centre-Forward,CF,£450Th.,Torino FC,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/enrico-fantini/profil/spieler/21149
+Bologna FC 1909,Roberto Colombo,30,Italy,Goalkeeper,GK,-,San Marino,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/roberto-colombo/profil/spieler/43411
+Bologna FC 1909,Piermario Morosini,19,Italy,Central Midfield,CM,£180Th.,Udinese Calcio,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/piermario-morosini/profil/spieler/35864
+Bologna FC 1909,Emanuele Brioschi,31,Italy,Centre-Back,CB,£90Th.,AS Bari,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/emanuele-brioschi/profil/spieler/5992
+Bologna FC 1909,Vincenzo Pellecchia,20,Italy,attack,attack,-,FC Empoli,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/vincenzo-pellecchia/profil/spieler/29618
+Bologna FC 1909,Emanuele Filippini,33,Italy,Central Midfield,CM,£900Th.,Treviso FBC 1993,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/emanuele-filippini/profil/spieler/5871
+Bologna FC 1909,Thomas Manfredini,26,Italy,Centre-Back,CB,£360Th.,Atalanta BC,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/thomas-manfredini/profil/spieler/5889
+Bologna FC 1909,Luca Tedeschi,19,Italy,Centre-Back,CB,£225Th.,Bologna Primavera,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/luca-tedeschi/profil/spieler/28030
+Bologna FC 1909,Mourad Meghni,22,Algeria,Attacking Midfield,AM,£2.25m,FC Sochaux-Montbéliard,France,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/mourad-meghni/profil/spieler/6003
+Juventus FC,Jean-Alain Boumsong,26,France,Centre-Back,CB,£6.75m,Newcastle United,England,£3.60m,In,2006,s,serie-b,https://www.transfermarkt.co.uk/jean-alain-boumsong/profil/spieler/5418
+Juventus FC,Marco Marchionni,25,Italy,Right Midfield,RM,£9.00m,Parma FC,Italy,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/marco-marchionni/profil/spieler/5873
+Juventus FC,Cristiano Zanetti,29,Italy,Defensive Midfield,DM,£4.50m,FC Internazionale,Italy,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/cristiano-zanetti/profil/spieler/5783
+Juventus FC,Valeri Bojinov,20,Bulgaria,Centre-Forward,CF,£11.70m,ACF Fiorentina,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/valeri-bojinov/profil/spieler/4176
+Juventus FC,Tomás Guzmán,24,Paraguay,Attacking Midfield,AM,£450Th.,Robur Siena,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/tomas-guzman/profil/spieler/19228
+Juventus FC,Emanuele Belardi,28,Italy,Goalkeeper,GK,£450Th.,Reggina Calcio,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/emanuele-belardi/profil/spieler/6060
+Juventus FC,Paolo De Ceglie,19,Italy,Left-Back,LB,-,Juventus Primavera,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/paolo-de-ceglie/profil/spieler/44709
+Juventus FC,Sebastian Giovinco,19,Italy,Second Striker,SS,-,Juventus Primavera,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/sebastian-giovinco/profil/spieler/52312
+Juventus FC,Michele Paolucci,20,Italy,Centre-Forward,CF,-,Juventus Primavera,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/michele-paolucci/profil/spieler/41311
+Juventus FC,Raffaele Bianco,18,Italy,Central Midfield,CM,-,Juventus Primavera,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/raffaele-bianco/profil/spieler/56693
+Juventus FC,Claudio Scarzanella,20,Italy,Goalkeeper,GK,-,Juventus Primavera,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/claudio-scarzanella/profil/spieler/83385
+Juventus FC,Francesco Volpe,20,Italy,Right Winger,RW,-,Juventus Primavera,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/francesco-volpe/profil/spieler/55002
+Juventus FC,Olivier Kapo,25,France,Attacking Midfield,AM,£3.60m,AS Monaco,France,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/olivier-kapo/profil/spieler/5438
+Juventus FC,Nicola Legrottaglie,29,Italy,Centre-Back,CB,£1.35m,Robur Siena,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/nicola-legrottaglie/profil/spieler/5925
+Juventus FC,Igor Tudor,28,Croatia,Centre-Back,CB,£3.15m,Robur Siena,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/igor-tudor/profil/spieler/5752
+Juventus FC,Luigi Lavecchia,24,Italy,Right Midfield,RM,£450Th.,Le Mans Union Club 72,France,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/luigi-lavecchia/profil/spieler/19244
+Juventus FC,Giuseppe Sculli,25,Italy,Left Winger,LW,£1.80m,FC Messina Peloro,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/giuseppe-sculli/profil/spieler/6046
+Juventus FC,Simone Bentivoglio,21,Italy,Central Midfield,CM,£45Th.,AC Mantova 1911,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/simone-bentivoglio/profil/spieler/34909
+Juventus FC,Matteo Paro,23,Italy,Central Midfield,CM,£315Th.,Robur Siena,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/matteo-paro/profil/spieler/7100
+Juventus FC,Raffaele Palladino,22,Italy,Left Winger,LW,£3.78m,AS Livorno,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/raffaele-palladino/profil/spieler/28855
+Juventus FC,Abdoulay Konko,22,France,Right-Back,RB,£540Th.,FC Crotone,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/abdoulay-konko/profil/spieler/22139
+Juventus FC,Rey Volpato,19,Italy,Centre-Forward,CF,£90Th.,Robur Siena,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/rey-volpato/profil/spieler/35847
+Juventus FC,Andrea Masiello,20,Italy,Centre-Back,CB,£45Th.,US Avellino,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/andrea-masiello/profil/spieler/34198
+Juventus FC,Andrea Luci,21,Italy,Defensive Midfield,DM,-,SEF Torres 1903,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/andrea-luci/profil/spieler/43271
+Juventus FC,Davide Chiumiento,21,Switzerland,Attacking Midfield,AM,£1.13m,Le Mans Union Club 72,France,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/davide-chiumiento/profil/spieler/17332
+Juventus FC,Felice Piccolo,22,Italy,Centre-Back,CB,£360Th.,SS Lazio,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/felice-piccolo/profil/spieler/28029
+Juventus FC,Orlando Urbano,22,Italy,Centre-Back,CB,-,US Catanzaro,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/orlando-urbano/profil/spieler/39687
+Juventus FC,Alessandro La Vecchia,21,Italy,midfield,midfield,-,US Ivrea Calcio,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/alessandro-la-vecchia/profil/spieler/398605
+Treviso FBC 1993,Massimo Gobbi,26,Italy,Left-Back,LB,£1.80m,Cagliari Calcio,Italy,£1.80m,In,2006,s,serie-b,https://www.transfermarkt.co.uk/massimo-gobbi/profil/spieler/28020
+Treviso FBC 1993,Gianni Guigou,31,Uruguay,Defensive Midfield,DM,£720Th.,ACF Fiorentina,Italy,£450Th.,In,2006,s,serie-b,https://www.transfermarkt.co.uk/gianni-guigou/profil/spieler/5954
+Treviso FBC 1993,Maxminio Montresor,26,Brazil,Goalkeeper,GK,-,Olaria Atlético Clube (RJ),Brazil,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/maxminio-montresor/profil/spieler/44035
+Treviso FBC 1993,Daniel Baldi,24,Uruguay,Centre-Forward,CF,-,Mineros de Guayana,Venezuela,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/daniel-baldi/profil/spieler/44808
+Treviso FBC 1993,Alessandro Moro,21,Italy,Defensive Midfield,DM,£180Th.,Ascoli Calcio 1898,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/alessandro-moro/profil/spieler/39849
+Treviso FBC 1993,Walter Baseggio,27,Belgium,Central Midfield,CM,£1.35m,RSC Anderlecht,Belgium,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/walter-baseggio/profil/spieler/9590
+Treviso FBC 1993,Francesco Mignogna,22,Italy,Left Winger,LW,-,Taranto FC 1927,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/francesco-mignogna/profil/spieler/41718
+Treviso FBC 1993,Massimo Ganci,24,Italy,Centre-Forward,CF,£630Th.,Piacenza FC,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/massimo-ganci/profil/spieler/28019
+Treviso FBC 1993,Vlada Avramov,27,Serbia,Goalkeeper,GK,£450Th.,ACF Fiorentina,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/vlada-avramov/profil/spieler/22185
+Treviso FBC 1993,Daniele Quadrini,26,Italy,Right Winger,RW,-,Calcio Padova,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/daniele-quadrini/profil/spieler/40111
+Treviso FBC 1993,Andrea Poli,16,Italy,Central Midfield,CM,-,Treviso Juniores,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/andrea-poli/profil/spieler/44834
+Treviso FBC 1993,Alberto Frison,18,Italy,Goalkeeper,GK,-,Treviso Juniores,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/alberto-frison/profil/spieler/44832
+Treviso FBC 1993,Divine Fonjock,19,Cameroon,Defensive Midfield,DM,-,Treviso Juniores,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/divine-fonjock/profil/spieler/23356
+Treviso FBC 1993,Roberto Chiappara,32,Italy,Right Midfield,RM,-,Modena FC,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/roberto-chiappara/profil/spieler/23349
+Treviso FBC 1993,Damien Florian,19,Italy,Centre-Forward,CF,-,Unione Sanremo,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/damien-florian/profil/spieler/23355
+Treviso FBC 1993,Riccardo Gissi,26,Italy,Defensive Midfield,DM,£90Th.,US Catanzaro,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/riccardo-gissi/profil/spieler/28867
+Treviso FBC 1993,Stefano Dall'Acqua,24,Italy,Centre-Forward,CF,-,Calcio Catania,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/stefano-dallacqua/profil/spieler/23352
+Treviso FBC 1993,Alessio Sestu,22,Italy,Right Winger,RW,-,AC Mantova 1911,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/alessio-sestu/profil/spieler/23367
+UC AlbinoLeffe,Santos,25,Brazil,Centre-Back,CB,£90Th.,AC Monza Brianza,Italy,£576Th.,In,2006,s,serie-b,https://www.transfermarkt.co.uk/santos/profil/spieler/19439
+UC AlbinoLeffe,Nicola Ferrari,22,Italy,Centre-Forward,CF,-,FC Crotone,Italy,£495Th.,In,2006,s,serie-b,https://www.transfermarkt.co.uk/nicola-ferrari/profil/spieler/38646
+UC AlbinoLeffe,Federico Marchetti,23,Italy,Goalkeeper,GK,£45Th.,AS Biellese,Italy,£450Th.,In,2006,s,serie-b,https://www.transfermarkt.co.uk/federico-marchetti/profil/spieler/22318
+UC AlbinoLeffe,Davide Caremi,22,Italy,Central Midfield,CM,£45Th.,Delfino Pescara 1936,Italy,£117Th.,In,2006,s,serie-b,https://www.transfermarkt.co.uk/davide-caremi/profil/spieler/28831
+UC AlbinoLeffe,Duccio Innocenti,30,Italy,Centre-Back,CB,£315Th.,Atalanta BC,Italy,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/duccio-innocenti/profil/spieler/6164
+UC AlbinoLeffe,Giuliano Lamma,25,Italy,Centre-Back,CB,-,AC Prato,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/giuliano-lamma/profil/spieler/41232
+UC AlbinoLeffe,Andrea Rabito,26,Italy,Right Winger,RW,£135Th.,Rimini FC,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/andrea-rabito/profil/spieler/21765
+UC AlbinoLeffe,Mario Donadoni,26,Italy,Centre-Back,CB,£180Th.,US Cremonese,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/mario-donadoni/profil/spieler/30634
+UC AlbinoLeffe,Marco Cellini,25,Italy,Centre-Forward,CF,-,Perugia Calcio,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/marco-cellini/profil/spieler/42190
+UC AlbinoLeffe,Federico Peluso,22,Italy,Centre-Back,CB,£180Th.,Ternana Calcio,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/federico-peluso/profil/spieler/21763
+UC AlbinoLeffe,Massimiliano Pesenti,19,Italy,Centre-Forward,CF,-,AlbinoLeffe Primavera,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/massimiliano-pesenti/profil/spieler/101919
+UC AlbinoLeffe,Paolo Acerbis,25,Italy,Goalkeeper,GK,£450Th.,AS Livorno,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/paolo-acerbis/profil/spieler/22232
+UC AlbinoLeffe,Christian Araboni,27,Italy,Centre-Forward,CF,£450Th.,Salernitana Calcio 1919,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/christian-araboni/profil/spieler/22233
+UC AlbinoLeffe,Andrea Cristiano,21,Italy,Left Midfield,LM,£45Th.,Novara Calcio 1908,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/andrea-cristiano/profil/spieler/23191
+UC AlbinoLeffe,Gabriele Perico,22,Italy,Right-Back,RB,£72Th.,AC Monza Brianza,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/gabriele-perico/profil/spieler/28817
+UC AlbinoLeffe,Alessandro Diamanti,23,Italy,Attacking Midfield,AM,£270Th.,AC Prato,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/alessandro-diamanti/profil/spieler/23197
+Delfino Pescara 1936,Simone Felci,24,Italy,Right Midfield,RM,-,Giulianova Calcio,Italy,£126Th.,In,2006,s,serie-b,https://www.transfermarkt.co.uk/simone-felci/profil/spieler/42763
+Delfino Pescara 1936,Marco Ferrante,35,Italy,Centre-Forward,CF,£720Th.,Ascoli Calcio 1898,Italy,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/marco-ferrante/profil/spieler/21883
+Delfino Pescara 1936,Andrea De Falco,20,Italy,Central Midfield,CM,£68Th.,Fiorentina Primavera,Italy,£450,In,2006,s,serie-b,https://www.transfermarkt.co.uk/andrea-de-falco/profil/spieler/16848
+Delfino Pescara 1936,Massimo Demartis,31,Italy,Centre-Back,CB,£315Th.,SEF Torres 1903,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/massimo-demartis/profil/spieler/22315
+Delfino Pescara 1936,Andrea Luci,21,Italy,Defensive Midfield,DM,£180Th.,Juventus FC,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/andrea-luci/profil/spieler/43271
+Delfino Pescara 1936,Damiano Moscardi,32,Italy,Right Midfield,RM,£225Th.,Vicenza Calcio,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/damiano-moscardi/profil/spieler/28872
+Delfino Pescara 1936,Vitangelo Spadavecchia,23,Italy,Goalkeeper,GK,£90Th.,AS Bari,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/vitangelo-spadavecchia/profil/spieler/22125
+Delfino Pescara 1936,Filippo Antonelli Agomeri,28,Italy,Right Winger,RW,£315Th.,Chievo Verona,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/filippo-antonelli-agomeri/profil/spieler/22307
+Delfino Pescara 1936,Marco Rigoni,26,Italy,Central Midfield,CM,-,Ternana Calcio,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/marco-rigoni/profil/spieler/21954
+Delfino Pescara 1936,Giovanni Scappaticci,18,Italy,midfield,midfield,-,,Unknown,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/giovanni-scappaticci/profil/spieler/236348
+Delfino Pescara 1936,Romeo Papini,23,Italy,Defensive Midfield,DM,-,Ternana Calcio,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/romeo-papini/profil/spieler/38651
+Delfino Pescara 1936,Stefano Olivieri,23,Italy,Centre-Back,CB,-,Giulianova Calcio,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/stefano-olivieri/profil/spieler/42885
+Delfino Pescara 1936,Remo Amadio,18,Italy,Goalkeeper,GK,-,Pescara Primavera,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/remo-amadio/profil/spieler/42836
+Delfino Pescara 1936,Alessandro Rapino,18,Italy,Centre-Back,CB,-,Pescara Primavera,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/alessandro-rapino/profil/spieler/140315
+Delfino Pescara 1936,Edgar Cani,16,Albania,Centre-Forward,CF,-,Pescara Primavera,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/edgar-cani/profil/spieler/61863
+Delfino Pescara 1936,Matteo Ciofani,18,Italy,Centre-Back,CB,-,Pescara Primavera,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/matteo-ciofani/profil/spieler/119355
+Delfino Pescara 1936,Marco Di Matteo,19,Italy,Centre-Forward,CF,-,Pescara Primavera,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/marco-di-matteo/profil/spieler/102564
+Delfino Pescara 1936,Marco Pomante,22,Italy,Centre-Back,CB,£90Th.,ASD Chieti,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/marco-pomante/profil/spieler/22757
+Delfino Pescara 1936,Andrea Carozza,21,Italy,midfield,midfield,£45Th.,AC Pisa 1909,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/andrea-carozza/profil/spieler/22269
+Delfino Pescara 1936,Luca Paponetti,21,Italy,Centre-Forward,CF,-,SS Virtus Lanciano,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/luca-paponetti/profil/spieler/22284
+Delfino Pescara 1936,Davide Caremi,22,Italy,Central Midfield,CM,£45Th.,SS Virtus Lanciano,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/davide-caremi/profil/spieler/28831
+Hellas Verona,Gianluca Di Giulio,34,Italy,Defensive Midfield,DM,£45Th.,Rimini FC,Italy,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/gianluca-di-giulio/profil/spieler/30631
+Hellas Verona,Lorenzo Sibilano,27,Italy,Centre-Back,CB,£360Th.,AS Bari,Italy,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/lorenzo-sibilano/profil/spieler/22152
+Hellas Verona,Romano Perticone,19,Italy,Centre-Back,CB,-,AC Milan,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/romano-perticone/profil/spieler/44294
+Hellas Verona,Diego Di Chiara,26,Italy,Central Midfield,CM,-,US Pistoiese 1921,Italy,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/diego-di-chiara/profil/spieler/44304
+Hellas Verona,Andrea Cossu,26,Italy,Attacking Midfield,AM,£1.08m,Cagliari Calcio,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/andrea-cossu/profil/spieler/21861
+Hellas Verona,Claudio Ferrarese,27,Italy,Right Winger,RW,£360Th.,Torino FC,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/claudio-ferrarese/profil/spieler/28852
+Hellas Verona,Federico Nieto,22,Argentina,Centre-Forward,CF,£450Th.,Genoa CFC,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/federico-nieto/profil/spieler/30858
+Hellas Verona,Leandro Greco,19,Italy,Central Midfield,CM,£90Th.,AS Roma,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/leandro-greco/profil/spieler/39831
+Hellas Verona,Salvatore Ricca,22,Italy,Centre-Back,CB,-,Vigor Lamezia Calcio,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/salvatore-ricca/profil/spieler/44295
+Hellas Verona,Giovanni Foderaro,21,Italy,Centre-Forward,CF,-,Vigor Lamezia Calcio,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/giovanni-foderaro/profil/spieler/44289
+Hellas Verona,Luca Loschi,19,Italy,Goalkeeper,GK,-,ASDC Borgomanero,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/luca-loschi/profil/spieler/61388
+Hellas Verona,Ivan Pedrelli,20,Italy,Right-Back,RB,-,Bologna FC 1909,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/ivan-pedrelli/profil/spieler/38601
+Hellas Verona,Daniele Magliocchetti,20,Italy,Centre-Back,CB,-,AS Roma,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/daniele-magliocchetti/profil/spieler/44290
+Hellas Verona,Luigi Anaclerio,25,Italy,attack,attack,£180Th.,AS Bari,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/luigi-anaclerio/profil/spieler/22322
+Hellas Verona,Luigi Sartor,31,Italy,Right-Back,RB,£450Th.,FC Sopron,Hungary,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/luigi-sartor/profil/spieler/5941
+Hellas Verona,Salif Dianda,18,Burkina Faso,Right Midfield,RM,-,Hellas Verona Primavera,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/salif-dianda/profil/spieler/84544
+Hellas Verona,Desmond N'Ze,17,Italy,Centre-Back,CB,-,Hellas Verona Youth,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/desmond-nze/profil/spieler/88376
+Hellas Verona,Craig Davies,21,Wales,Centre-Forward,CF,£270Th.,Wolverhampton Wanderers,England,"End of loanMay 1, 2007",In,2006,s,serie-b,https://www.transfermarkt.co.uk/craig-davies/profil/spieler/38586
+Hellas Verona,Simon Laner,22,Italy,Central Midfield,CM,-,US Castelnuovo Garfagnana,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/simon-laner/profil/spieler/44336
+Hellas Verona,Andrea Doardo,22,Italy,midfield,midfield,£45Th.,Cuoiopelli Cappiano Romaiano,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/andrea-doardo/profil/spieler/28865
+Hellas Verona,Stefano Pastrello,22,Italy,Right Midfield,RM,-,ASD Modica Calcio,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/stefano-pastrello/profil/spieler/148598
+Hellas Verona,Giuseppe Colucci,25,Italy,Central Midfield,CM,£1.80m,AS Livorno,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/giuseppe-colucci/profil/spieler/6717
+Modena FC,Antonio Marasco,19,Italy,midfield,midfield,£45Th.,SC YF Juventus Zürich,Switzerland,£225Th.,In,2006,s,serie-b,https://www.transfermarkt.co.uk/antonio-marasco/profil/spieler/33519
+Modena FC,Flavio Lazzari,19,Italy,Attacking Midfield,AM,£90Th.,Udinese Calcio,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/flavio-lazzari/profil/spieler/33340
+Modena FC,Luca Ungari,31,Italy,Centre-Back,CB,£540Th.,Torino FC,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/luca-ungari/profil/spieler/6041
+Modena FC,Cris Gilioli,23,Italy,Right Midfield,RM,-,US Sassuolo,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/cris-gilioli/profil/spieler/44312
+Modena FC,Ignazio Abate,19,Italy,Right-Back,RB,£45Th.,AC Milan,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/ignazio-abate/profil/spieler/16631
+Modena FC,Luca Baldo,23,Italy,Central Midfield,CM,-,US Sassuolo,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/luca-baldo/profil/spieler/43081
+Modena FC,Jacopo Vergari,18,Italy,Goalkeeper,GK,-,,Unknown,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/jacopo-vergari/profil/spieler/368863
+Modena FC,Angelo Antonazzo,24,Italy,Right-Back,RB,£180Th.,Ascoli Calcio 1898,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/angelo-antonazzo/profil/spieler/38577
+Modena FC,Simone Bentivoglio,21,Italy,Central Midfield,CM,£45Th.,Chievo Verona,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/simone-bentivoglio/profil/spieler/34909
+Modena FC,Alex Pinardi,25,Italy,Defensive Midfield,DM,£900Th.,US Lecce,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/alex-pinardi/profil/spieler/19448
+Modena FC,Ferdinando Sforzini,21,Italy,Centre-Forward,CF,£180Th.,Udinese Calcio,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/ferdinando-sforzini/profil/spieler/33349
+Modena FC,Giuseppe Gemiti,25,Germany,Left-Back,LB,£450Th.,Chievo Verona,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/giuseppe-gemiti/profil/spieler/735
+SSC Napoli,György Garics,22,Austria,Right-Back,RB,£540Th.,Rapid Vienna,Austria,£630Th.,In,2006,s,serie-b,https://www.transfermarkt.co.uk/gyorgy-garics/profil/spieler/2926
+SSC Napoli,Rubén Maldonado,27,Paraguay,Centre-Back,CB,£180Th.,SSC Venezia,Italy,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/ruben-maldonado/profil/spieler/6152
+SSC Napoli,Samuele Dalla Bona,25,Italy,Central Midfield,CM,£2.25m,AC Milan,Italy,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/samuele-dalla-bona/profil/spieler/4291
+SSC Napoli,Paolo Cannavaro,25,Italy,Centre-Back,CB,£1.35m,Parma FC,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/paolo-cannavaro/profil/spieler/5858
+SSC Napoli,Maurizio Domizzi,26,Italy,Centre-Back,CB,£720Th.,Ascoli Calcio 1898,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/maurizio-domizzi/profil/spieler/6750
+SSC Napoli,Cristian Bucchi,29,Italy,Centre-Forward,CF,£1.80m,Modena FC,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/cristian-bucchi/profil/spieler/16846
+SSC Napoli,Roberto De Zerbi,27,Italy,Attacking Midfield,AM,£360Th.,Calcio Catania,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/roberto-de-zerbi/profil/spieler/23194
+SSC Napoli,Fabio Gatti,24,Italy,Defensive Midfield,DM,£180Th.,US Cremonese,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/fabio-gatti/profil/spieler/22804
+SSC Napoli,Gerardo Schettino,22,Italy,midfield,midfield,-,FC Pro Vasto,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/gerardo-schettino/profil/spieler/168561
+Piacenza FC,Alain Nef,24,Switzerland,Centre-Back,CB,£630Th.,FC Zürich,Switzerland,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/alain-nef/profil/spieler/4945
+Piacenza FC,Gianluca Lamacchi,34,Italy,Centre-Back,CB,-,Genoa CFC,Italy,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/gianluca-lamacchi/profil/spieler/22200
+Piacenza FC,Julien Rantier,22,France,Second Striker,SS,£360Th.,Hellas Verona,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/julien-rantier/profil/spieler/22208
+Piacenza FC,Alessandro Ciarrocchi,18,Switzerland,Centre-Forward,CF,£45Th.,FC Winterthur,Switzerland,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/alessandro-ciarrocchi/profil/spieler/33508
+Piacenza FC,Antonio Nocerino,21,Italy,Central Midfield,CM,£450Th.,Genoa CFC,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/antonio-nocerino/profil/spieler/22203
+Piacenza FC,Leandro Gobatto,24,Brazil,Attacking Midfield,AM,-,Brujas FC,Costa Rica,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/leandro-gobatto/profil/spieler/41177
+Piacenza FC,Lucas Simón,19,Argentina,Centre-Forward,CF,-,Nueva Chicago,Argentina,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/lucas-simon/profil/spieler/43107
+Piacenza FC,Fabrizio Capodici,20,Italy,Goalkeeper,GK,-,Bergamo Cenate,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/fabrizio-capodici/profil/spieler/43088
+Piacenza FC,Giuseppe Gemiti,25,Germany,Left-Back,LB,£450Th.,Modena FC,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/giuseppe-gemiti/profil/spieler/735
+Piacenza FC,Ferdinando Coppola,28,Italy,Goalkeeper,GK,£1.35m,AC Milan,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/ferdinando-coppola/profil/spieler/5986
+Piacenza FC,Michele Anaclerio,24,Italy,Centre-Back,CB,£90Th.,AS Bari,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/michele-anaclerio/profil/spieler/22097
+Piacenza FC,Antonio Piccolo,18,Italy,Right Winger,RW,-,Piacenza Primavera,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/antonio-piccolo/profil/spieler/41986
+Piacenza FC,Didier N'Dagano,17,Rwanda,Centre-Back,CB,-,Piacenza Primavera,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/didier-ndagano/profil/spieler/193064
+Piacenza FC,Massimo Ganci,24,Italy,Centre-Forward,CF,£630Th.,AS Bari,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/massimo-ganci/profil/spieler/28019
+Piacenza FC,Ilario Ondei,21,Italy,Left-Back,LB,-,Calcio Lecco 1912,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/ilario-ondei/profil/spieler/41985
+Piacenza FC,Francesco Nieto,21,Italy,attack,attack,£90Th.,ASD Acireale Calcio,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/francesco-nieto/profil/spieler/29616
+Piacenza FC,Marco Comotto,22,Italy,Centre-Back,CB,-,AS Biellese,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/marco-comotto/profil/spieler/309064
+US Lecce,Rafael Tesser,25,Brazil,Right-Back,RB,-,Ituano Futebol Clube (SP),Brazil,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/rafael-tesser/profil/spieler/78430
+US Lecce,Gionata Mingozzi,21,Italy,Central Midfield,CM,£45Th.,UC Sampdoria,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/gionata-mingozzi/profil/spieler/29614
+US Lecce,Hemza Mihoubi,20,Algeria,Left-Back,LB,£630Th.,FC Metz,France,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/hemza-mihoubi/profil/spieler/38380
+US Lecce,Cristian Arrieta,26,Puerto Rico,Right-Back,RB,-,Calcio Lecco 1912,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/cristian-arrieta/profil/spieler/42017
+US Lecce,Daniel Osvaldo,20,Italy,Centre-Forward,CF,-,Atalanta BC,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/daniel-osvaldo/profil/spieler/37389
+US Lecce,Alessandro Tulli,24,Italy,Centre-Forward,CF,£630Th.,US Triestina,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/alessandro-tulli/profil/spieler/21962
+US Lecce,Juliano,24,Brazil,Central Midfield,CM,-,Guarani Futebol Clube (SP),Brazil,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/juliano/profil/spieler/44773
+US Lecce,Giuseppe Vives,25,Italy,Defensive Midfield,DM,-,FC Giugliano 1928,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/giuseppe-vives/profil/spieler/42345
+US Lecce,Ondrej Herzan,25,Czech Republic,Central Midfield,CM,-,AC Sparta Prague,Czech Republic,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/ondrej-herzan/profil/spieler/18914
+US Lecce,Martin Petras,26,Slovakia,Right-Back,RB,£675Th.,FBK Kaunas,Lithuania,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/martin-petras/profil/spieler/9764
+US Lecce,Ugo Gabrieli,17,Italy,Goalkeeper,GK,£68Th.,Lecce Primavera,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/ugo-gabrieli/profil/spieler/56678
+US Lecce,Giuseppe Caccavallo,19,Italy,Right Winger,RW,-,Lecce Primavera,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/giuseppe-caccavallo/profil/spieler/102625
+US Lecce,Francesco Giorgetti,20,Italy,Left Midfield,LM,-,Lecce Primavera,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/francesco-giorgetti/profil/spieler/139027
+US Lecce,Stefano Mandorino,19,Italy,Central Midfield,CM,-,Lecce Primavera,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/stefano-mandorino/profil/spieler/334581
+US Lecce,Italo Mattioli,21,Italy,Centre-Forward,CF,£270Th.,US Catanzaro,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/italo-mattioli/profil/spieler/32987
+US Lecce,Graziano Pellè,20,Italy,Centre-Forward,CF,£900Th.,FC Crotone,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/graziano-pelle/profil/spieler/29594
+US Lecce,Giuseppe Abruzzese,25,Italy,Centre-Back,CB,£90Th.,US Avellino,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/giuseppe-abruzzese/profil/spieler/6417
+US Lecce,Angelo,25,Brazil,Right-Back,RB,£450Th.,FC Crotone,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/angelo/profil/spieler/32966
+US Lecce,Cristian Agnelli,20,Italy,Central Midfield,CM,£270Th.,SS Juve Stabia,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/cristian-agnelli/profil/spieler/21854
+AS Bari,Gabriele Aldegani,30,Italy,Goalkeeper,GK,£68Th.,Piacenza FC,Italy,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/gabriele-aldegani/profil/spieler/28828
+AS Bari,Federico Groppioni,23,Italy,Goalkeeper,GK,-,FC Rieti,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/federico-groppioni/profil/spieler/102324
+AS Bari,Umberto Cazzola,24,Italy,Right Midfield,RM,-,Ravenna Calcio,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/umberto-cazzola/profil/spieler/40890
+AS Bari,Andrea Milani,25,Italy,Right-Back,RB,-,Brescia Calcio,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/andrea-milani/profil/spieler/38598
+AS Bari,Carlo Gervasoni,24,Italy,Centre-Back,CB,£180Th.,Hellas Verona,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/carlo-gervasoni/profil/spieler/22293
+AS Bari,Fabio Vignaroli,30,Italy,Centre-Forward,CF,£900Th.,Bologna FC 1909,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/fabio-vignaroli/profil/spieler/17153
+AS Bari,Giorgio Di Vicino,25,Italy,Attacking Midfield,AM,£450Th.,Salernitana Calcio 1919,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/giorgio-di-vicino/profil/spieler/6426
+AS Bari,Luca Tabbiani,27,Italy,Right Midfield,RM,£180Th.,US Cremonese,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/luca-tabbiani/profil/spieler/30661
+AS Bari,Ivan Loseto,18,Italy,Left-Back,LB,-,Bari Primavera,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/ivan-loseto/profil/spieler/61522
+AS Bari,Daniele Fiorentino,17,Italy,Defensive Midfield,DM,-,Bari Primavera,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/daniele-fiorentino/profil/spieler/61538
+AS Bari,Marco Piccinni,19,Italy,Central Midfield,CM,-,Bari Primavera,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/marco-piccinni/profil/spieler/137110
+AS Bari,Andrea Bovo,20,Italy,Central Midfield,CM,£360Th.,US Palermo,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/andrea-bovo/profil/spieler/21837
+AS Bari,Pasquale Berardi,23,Italy,Central Midfield,CM,£270Th.,US Sambenedettese,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/pasquale-berardi/profil/spieler/22146
+AS Bari,Luigi Rana,19,Italy,Centre-Forward,CF,-,AS Melfi,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/luigi-rana/profil/spieler/137114
+AS Bari,Robert Maah,21,France,Centre-Forward,CF,-,Ravenna Calcio,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/robert-maah/profil/spieler/85485
+Spezia Calcio 1906,Daniel Maa Boumsong,19,Cameroon,Defensive Midfield,DM,£45Th.,FC Internazionale,Italy,Loan fee:£90Th.,In,2006,s,serie-b,https://www.transfermarkt.co.uk/daniel-maa-boumsong/profil/spieler/36358
+Spezia Calcio 1906,Simone Confalone,32,Italy,Central Midfield,CM,£180Th.,AC Arezzo,Italy,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/simone-confalone/profil/spieler/24304
+Spezia Calcio 1906,Fabio Aliboni,19,Italy,Defensive Midfield,DM,-,Fo.Ce. Vara 1998,Italy,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/fabio-aliboni/profil/spieler/330398
+Spezia Calcio 1906,Marco Zamboni,28,Italy,Centre-Back,CB,£450Th.,Reggina Calcio,Italy,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/marco-zamboni/profil/spieler/6036
+Spezia Calcio 1906,Nicola Santoni,27,Italy,Goalkeeper,GK,£90Th.,Brescia Calcio,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/nicola-santoni/profil/spieler/17159
+Spezia Calcio 1906,Gennaro Scarlato,29,Italy,Centre-Back,CB,£450Th.,FC Crotone,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/gennaro-scarlato/profil/spieler/21758
+Spezia Calcio 1906,Davide Nicola,33,Italy,Right-Back,RB,£450Th.,Torino FC,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/davide-nicola/profil/spieler/21826
+Spezia Calcio 1906,Corrado Colombo,26,Italy,Centre-Forward,CF,£900Th.,Brescia Calcio,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/corrado-colombo/profil/spieler/21231
+Spezia Calcio 1906,Marco Pecorari,28,Italy,Centre-Back,CB,£450Th.,Ascoli Calcio 1898,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/marco-pecorari/profil/spieler/21950
+Spezia Calcio 1906,Marco Gorzegno,25,Italy,Centre-Back,CB,£72Th.,UC AlbinoLeffe,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/marco-gorzegno/profil/spieler/22243
+Spezia Calcio 1906,Davide Dionigi,32,Italy,Centre-Forward,CF,£720Th.,Reggina Calcio,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/davide-dionigi/profil/spieler/28015
+Spezia Calcio 1906,Eder Baù,23,Italy,Right Winger,RW,£135Th.,US Triestina,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/eder-bau/profil/spieler/21903
+Spezia Calcio 1906,Alessandro Frara,23,Italy,Defensive Midfield,DM,£90Th.,Ternana Calcio,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/alessandro-frara/profil/spieler/6004
+Spezia Calcio 1906,Nello Russo,25,Italy,Centre-Forward,CF,£180Th.,FC Crotone,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/nello-russo/profil/spieler/29596
+Spezia Calcio 1906,Francesco Zizzari,24,Italy,Centre-Forward,CF,-,US Pistoiese 1921,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/francesco-zizzari/profil/spieler/68308
+AC Arezzo,Francesco Galeoto,34,Italy,Right-Back,RB,-,Treviso FBC 1993,Italy,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/francesco-galeoto/profil/spieler/23357
+AC Arezzo,Liborio Zuppardo,21,Italy,Centre-Forward,CF,-,SSD Spoleto Calcio,Italy,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/liborio-zuppardo/profil/spieler/43270
+AC Arezzo,Roberto Goretti,30,Italy,Defensive Midfield,DM,£225Th.,AS Bari,Italy,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/roberto-goretti/profil/spieler/6002
+AC Arezzo,Ernesto Terra,28,Italy,Centre-Back,CB,£270Th.,Atalanta BC,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/ernesto-terra/profil/spieler/22095
+AC Arezzo,Daniele Capelli,20,Italy,Centre-Back,CB,£450Th.,Atalanta BC,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/daniele-capelli/profil/spieler/30332
+AC Arezzo,Rey Volpato,19,Italy,Centre-Forward,CF,£90Th.,Juventus FC,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/rey-volpato/profil/spieler/35847
+AC Arezzo,Matteo Fasciani,18,Italy,Left Midfield,LM,-,Renato Curi Angolana,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/matteo-fasciani/profil/spieler/61776
+AC Arezzo,Andrea Censori,17,Italy,Central Midfield,CM,-,Santegidiese Calcio,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/andrea-censori/profil/spieler/44310
+AC Arezzo,Renato Bondi,25,Brazil,Attacking Midfield,AM,£45Th.,Real Teramo,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/renato-bondi/profil/spieler/37721
+AC Arezzo,Daniele Croce,23,Italy,Central Midfield,CM,£360Th.,Delfino Pescara 1936,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/daniele-croce/profil/spieler/22749
+AC Arezzo,Roberto Chiappara,32,Italy,Right Midfield,RM,-,Treviso FBC 1993,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/roberto-chiappara/profil/spieler/23349
+AC Arezzo,Andrea Ranocchia,18,Italy,Centre-Back,CB,-,Arezzo Giovanili,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/andrea-ranocchia/profil/spieler/44327
+AC Arezzo,Luca Vigna,28,Italy,attack,attack,£180Th.,Delfino Pescara 1936,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/luca-vigna/profil/spieler/23342
+AC Arezzo,Fabio Roselli,23,Italy,Defensive Midfield,DM,£45Th.,Treviso FBC 1993,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/fabio-roselli/profil/spieler/29567
+AC Arezzo,Elvis Abbruscato,25,Italy,Centre-Forward,CF,£630Th.,Torino FC,Italy,"End of loanJun 1, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/elvis-abbruscato/profil/spieler/23163
+Vicenza Calcio,Luca Rigoni,21,Italy,Central Midfield,CM,£450Th.,Reggina Calcio,Italy,£900Th.,In,2006,s,serie-b,https://www.transfermarkt.co.uk/luca-rigoni/profil/spieler/22210
+Vicenza Calcio,Leandro Vitiello,20,Italy,Defensive Midfield,DM,-,ASD Acireale Calcio,Italy,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/leandro-vitiello/profil/spieler/57473
+Vicenza Calcio,Cristian Raimondi,25,Italy,Right Midfield,RM,£810Th.,AC Arezzo,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/cristian-raimondi/profil/spieler/22249
+Vicenza Calcio,Gabriele Paonessa,19,Italy,Attacking Midfield,AM,-,Bologna FC 1909,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/gabriele-paonessa/profil/spieler/56875
+Vicenza Calcio,Ivan Castiglia,18,Italy,Central Midfield,CM,£68Th.,Reggina Calcio,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/ivan-castiglia/profil/spieler/39519
+Vicenza Calcio,Matteo Guardalben,32,Italy,Goalkeeper,GK,£900Th.,US Palermo,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/matteo-guardalben/profil/spieler/21789
+Vicenza Calcio,Tommaso Vailatti,20,Italy,Right Midfield,RM,£270Th.,Torino FC,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/tommaso-vailatti/profil/spieler/28861
+Vicenza Calcio,Dalibor Viskovic,29,Croatia,Left Midfield,LM,£315Th.,Hapoel Petah Tikva,Israel,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/dalibor-viskovic/profil/spieler/27949
+Vicenza Calcio,Adriano Zancopè,34,Italy,Goalkeeper,GK,£540Th.,Treviso FBC 1993,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/adriano-zancope/profil/spieler/6035
+Vicenza Calcio,Andrea Tecchio,19,Italy,defence,defence,-,Vicenza Primavera,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/andrea-tecchio/profil/spieler/61768
+Vicenza Calcio,Nicola Rigoni,15,Italy,Central Midfield,CM,-,Vicenza Primavera,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/nicola-rigoni/profil/spieler/61757
+Vicenza Calcio,Vlada Avramov,27,Serbia,Goalkeeper,GK,£450Th.,Delfino Pescara 1936,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/vlada-avramov/profil/spieler/22185
+Vicenza Calcio,Valerio Foglio,21,Italy,Left-Back,LB,£360Th.,AC Pisa 1909,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/valerio-foglio/profil/spieler/22196
+Vicenza Calcio,Damiano Moscardi,32,Italy,Right Midfield,RM,£225Th.,Piacenza FC,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/damiano-moscardi/profil/spieler/28872
+Vicenza Calcio,Stefano Pietribiasi,21,Italy,Centre-Forward,CF,-,AC Cuneo 1905,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/stefano-pietribiasi/profil/spieler/99543
+FC Crotone,Federico Giampaolo,36,Italy,Attacking Midfield,AM,-,Modena FC,Italy,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/federico-giampaolo/profil/spieler/22273
+FC Crotone,Julian Palmieri,19,France,Left-Back,LB,-,SC Bastia,France,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/julian-palmieri/profil/spieler/45237
+FC Crotone,Alfredo Cariello,26,Italy,Left Midfield,LM,£90Th.,Ascoli Calcio 1898,Italy,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/alfredo-cariello/profil/spieler/16981
+FC Crotone,Dante López,22,Paraguay,Centre-Forward,CF,-,Genoa CFC,Italy,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/dante-lopez/profil/spieler/18535
+FC Crotone,Ricardo Verón,25,Argentina,Central Midfield,CM,£45Th.,Reggina Calcio,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/ricardo-veron/profil/spieler/6073
+FC Crotone,Simone Bonomi,25,Italy,Left-Back,LB,£180Th.,Robur Siena,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/simone-bonomi/profil/spieler/15334
+FC Crotone,Andrea Gentile,26,Italy,Central Midfield,CM,£540Th.,FC Messina Peloro,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/andrea-gentile/profil/spieler/19220
+FC Crotone,Daniele Padelli,20,Italy,Goalkeeper,GK,£45Th.,UC Sampdoria,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/daniele-padelli/profil/spieler/27807
+FC Crotone,Simone Fumasoli,22,Switzerland,midfield,midfield,-,AS Pizzighettone,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/simone-fumasoli/profil/spieler/44111
+FC Crotone,Luca Fusco,28,Italy,Centre-Back,CB,£180Th.,Genoa CFC,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/luca-fusco/profil/spieler/19219
+FC Crotone,Roberto Nanni,24,Argentina,Centre-Forward,CF,£3.15m,Dynamo Kyiv,Ukraine,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/roberto-nanni/profil/spieler/9801
+FC Crotone,Claudio Scarzanella,20,Italy,Goalkeeper,GK,-,Juventus FC,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/claudio-scarzanella/profil/spieler/83385
+FC Crotone,Gianvito Plasmati,23,Italy,Centre-Forward,CF,-,Calcio Catania,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/gianvito-plasmati/profil/spieler/44116
+FC Crotone,Nicola Petrilli,19,Italy,Right Winger,RW,-,Crotone Primavera,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/nicola-petrilli/profil/spieler/85075
+FC Crotone,Jamal Alioui,24,Morocco,Right-Back,RB,£585Th.,FC Metz,France,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/jamal-alioui/profil/spieler/8190
+FC Crotone,Nello Russo,25,Italy,Centre-Forward,CF,£180Th.,UC AlbinoLeffe,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/nello-russo/profil/spieler/29596
+FC Crotone,Giampaolo Ciarciá,26,Italy,Central Midfield,CM,£90Th.,Spezia Calcio 1906,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/giampaolo-ciarcia/profil/spieler/22134
+FC Crotone,Abdelkader Ghezzal,21,Algeria,Centre-Forward,CF,-,AS Biellese,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/abdelkader-ghezzal/profil/spieler/76406
+AC Cesena,Luigi Pagliuca,26,Italy,Right Winger,RW,£45Th.,US Triestina,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/luigi-pagliuca/profil/spieler/21998
+AC Cesena,Fabio Vignati,22,Italy,Centre-Back,CB,£45Th.,Cagliari Calcio,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/fabio-vignati/profil/spieler/35742
+AC Cesena,Maurizio Lauro,25,Italy,Centre-Back,CB,£450Th.,Ascoli Calcio 1898,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/maurizio-lauro/profil/spieler/28823
+AC Cesena,Graziano Pellè,20,Italy,Centre-Forward,CF,£900Th.,US Lecce,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/graziano-pelle/profil/spieler/29594
+AC Cesena,Francesco Virdis,21,Italy,Centre-Forward,CF,-,UC Sampdoria,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/francesco-virdis/profil/spieler/42814
+AC Cesena,Luiz Sacilotto,23,Brazil,Central Midfield,CM,-,Valfabbrica,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/luiz-sacilotto/profil/spieler/40712
+AC Cesena,Adriano Mezavilla,23,Brazil,Centre-Back,CB,-,Perugia Calcio,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/adriano-mezavilla/profil/spieler/67500
+AC Cesena,Andrea Lazzari,21,Italy,Central Midfield,CM,£1.80m,Atalanta BC,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/andrea-lazzari/profil/spieler/19442
+AC Cesena,Rocco Sabato,24,Italy,Left-Back,LB,£90Th.,Calcio Catania,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/rocco-sabato/profil/spieler/20747
+AC Cesena,Mirko Drudi,19,Italy,Centre-Back,CB,-,Cesena Primavera,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/mirko-drudi/profil/spieler/42762
+AC Cesena,Denis Tonucci,17,Italy,Centre-Back,CB,-,Cesena Primavera,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/denis-tonucci/profil/spieler/60732
+AC Cesena,Nebil Caidi,17,Italy,Centre-Back,CB,-,Cesena Primavera,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/nebil-caidi/profil/spieler/60694
+AC Cesena,Alessio Ambrogetti,17,Italy,Second Striker,SS,-,Cesena Primavera,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/alessio-ambrogetti/profil/spieler/75305
+AC Cesena,Giuseppe De Feudis,22,Italy,Defensive Midfield,DM,£90Th.,San Marino,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/giuseppe-de-feudis/profil/spieler/24305
+AC Cesena,Luca Ceccarelli,23,Italy,Right-Back,RB,-,FC Pavia 1911,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/luca-ceccarelli/profil/spieler/41994
+US Triestina,Federico Piovaccari,21,Italy,Centre-Forward,CF,-,Inter Milan Primavera,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/federico-piovaccari/profil/spieler/44514
+US Triestina,Mattia Graffiedi,26,Italy,Centre-Forward,CF,£2.88m,Modena FC,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/mattia-graffiedi/profil/spieler/6395
+US Triestina,Lorenzo Rossetti,26,Italy,Right Midfield,RM,£540Th.,AC Cesena,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/lorenzo-rossetti/profil/spieler/24315
+US Triestina,Emiliano Testini,29,Italy,Left Winger,LW,£450Th.,UC AlbinoLeffe,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/emiliano-testini/profil/spieler/22254
+US Triestina,Emanuele Pesaresi,29,Italy,Left-Back,LB,£450Th.,Delfino Pescara 1936,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/emanuele-pesaresi/profil/spieler/5840
+US Triestina,Francesco Ruopolo,23,Italy,Centre-Forward,CF,£315Th.,Parma FC,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/francesco-ruopolo/profil/spieler/25325
+US Triestina,David Dei,32,Italy,Goalkeeper,GK,£45Th.,FC Crotone,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/david-dei/profil/spieler/22136
+US Triestina,Patrick Kalambay,22,Italy,Right Midfield,RM,-,AC Milan,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/patrick-kalambay/profil/spieler/45113
+US Triestina,Manuel Bianco,20,Italy,midfield,midfield,-,Pro Patria Gallaratese GB,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/manuel-bianco/profil/spieler/236318
+US Triestina,Matteo Pivotto,31,Italy,Right-Back,RB,£90Th.,Modena FC,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/matteo-pivotto/profil/spieler/17150
+US Triestina,Giuseppe Abruzzese,25,Italy,Centre-Back,CB,£90Th.,US Lecce,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/giuseppe-abruzzese/profil/spieler/6417
+US Triestina,Eder Baù,23,Italy,Right Winger,RW,£135Th.,Delfino Pescara 1936,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/eder-bau/profil/spieler/21903
+US Triestina,Simone Groppi,30,Italy,Left-Back,LB,£180Th.,Spezia Calcio 1906,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/simone-groppi/profil/spieler/24309
+US Triestina,Michelangelo Minieri,25,Italy,Centre-Back,CB,£360Th.,US Avellino,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/michelangelo-minieri/profil/spieler/21940
+Rimini FC,Domenico Cristiano,30,Italy,Defensive Midfield,DM,£450Th.,Ascoli Calcio 1898,Italy,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/domenico-cristiano/profil/spieler/22314
+Rimini FC,Marco Brighi,24,Italy,Defensive Midfield,DM,-,AC Bellaria Igea Marina,Italy,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/marco-brighi/profil/spieler/167155
+Rimini FC,Biagio Pagano,23,Italy,Right Winger,RW,£450Th.,AS Bari,Italy,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/biagio-pagano/profil/spieler/16899
+Rimini FC,Roberto Bischeri,25,Italy,Left Winger,LW,-,US Massese 1919,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/roberto-bischeri/profil/spieler/40628
+Rimini FC,Ahmed Barusso,21,Ghana,Defensive Midfield,DM,-,ASD Manfredonia Calcio,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/ahmed-barusso/profil/spieler/40979
+Rimini FC,Pierre Regonesi,27,Italy,Left-Back,LB,£270Th.,UC AlbinoLeffe,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/pierre-regonesi/profil/spieler/22250
+Rimini FC,Roberto Vitiello,23,Italy,Right-Back,RB,£360Th.,Vicenza Calcio,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/roberto-vitiello/profil/spieler/22217
+Rimini FC,Alessandro Matri,21,Italy,Centre-Forward,CF,-,AC Milan,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/alessandro-matri/profil/spieler/40660
+Rimini FC,Jeda,27,Brazil,Second Striker,SS,£540Th.,FC Crotone,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/jeda/profil/spieler/21773
+Rimini FC,Samir Handanovic,22,Slovenia,Goalkeeper,GK,£360Th.,Udinese Calcio,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/samir-handanovic/profil/spieler/28021
+Rimini FC,Marco Temeroli,20,Italy,Goalkeeper,GK,-,Rimini Primavera,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/marco-temeroli/profil/spieler/61052
+Rimini FC,Emilio Docente,22,Italy,Centre-Forward,CF,£180Th.,US Sambenedettese,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/emilio-docente/profil/spieler/30633
+Frosinone Calcio,Gianluca Galasso,22,Italy,Right-Back,RB,-,AS Roma,Italy,Loan fee:£225Th.,In,2006,s,serie-b,https://www.transfermarkt.co.uk/gianluca-galasso/profil/spieler/38648
+Frosinone Calcio,Juriy Cannarsa,30,Italy,Right-Back,RB,£630Th.,Reggina Calcio,Italy,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/juriy-cannarsa/profil/spieler/28011
+Frosinone Calcio,Francesco Carbone,26,Italy,Right-Back,RB,£90Th.,Chievo Verona,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/francesco-carbone/profil/spieler/7106
+Frosinone Calcio,Fabio Di Venanzio,31,Italy,Left-Back,LB,-,US Triestina,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/fabio-di-venanzio/profil/spieler/22107
+Frosinone Calcio,Massimo Margiotta,28,Venezuela,Second Striker,SS,£630Th.,Piacenza FC,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/massimo-margiotta/profil/spieler/22201
+Frosinone Calcio,Francesco Lodi,22,Italy,Defensive Midfield,DM,£900Th.,FC Empoli,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/francesco-lodi/profil/spieler/6033
+Frosinone Calcio,José Castillo,30,Argentina,Centre-Forward,CF,-,Gallipoli Calcio,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/jose-castillo/profil/spieler/41561
+Frosinone Calcio,Paolo Seppani,19,Italy,Centre-Back,CB,-,Roma Primavera,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/paolo-seppani/profil/spieler/43230
+Frosinone Calcio,Lucas Rimoldi,26,Argentina,Central Midfield,CM,£90Th.,Genoa CFC,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/lucas-rimoldi/profil/spieler/22211
+Frosinone Calcio,Marco Martini,27,Italy,Centre-Forward,CF,-,US Sambenedettese,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/marco-martini/profil/spieler/42880
+Frosinone Calcio,Luca Lacrimini,28,Italy,Left-Back,LB,-,SSC Napoli,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/luca-lacrimini/profil/spieler/41807
+Frosinone Calcio,Massimiliano Carlini,20,Italy,Central Midfield,CM,-,US Sambenedettese,Italy,"End of loanJun 30, 2007",In,2006,s,serie-b,https://www.transfermarkt.co.uk/massimiliano-carlini/profil/spieler/43206
+Frosinone Calcio,Pierluigi Frattali,20,Italy,Goalkeeper,GK,-,Frosinone Primavera,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/pierluigi-frattali/profil/spieler/43217
+Frosinone Calcio,Antonio Di Nardo,26,Italy,Centre-Forward,CF,-,US Pistoiese 1921,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/antonio-di-nardo/profil/spieler/43214
+Genoa CFC,Luciano Figueroa,25,Argentina,Centre-Forward,CF,£3.38m,Club Atlético River Plate,Argentina,£2.70m,In,2006,s,serie-b,https://www.transfermarkt.co.uk/luciano-figueroa/profil/spieler/7133
+Genoa CFC,Diogo Tavares,18,Portugal,Centre-Forward,CF,-,Sporting CP U19,Portugal,£360Th.,In,2006,s,serie-b,https://www.transfermarkt.co.uk/diogo-tavares/profil/spieler/35358
+Genoa CFC,Dario Biasi,26,Italy,Centre-Back,CB,£450Th.,Hellas Verona,Italy,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/dario-biasi/profil/spieler/21856
+Genoa CFC,Rubinho,23,Brazil,Goalkeeper,GK,-,Vitória Setúbal FC,Portugal,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/rubinho/profil/spieler/37598
+Genoa CFC,Adaílton,29,Brazil,Second Striker,SS,£1.62m,Hellas Verona,Italy,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/adailton/profil/spieler/21853
+Genoa CFC,Michele Tarallo,25,Italy,Centre-Forward,CF,-,Uso Calcio,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/michele-tarallo/profil/spieler/84978
+Genoa CFC,Gaetano De Rosa,33,Italy,Centre-Back,CB,£720Th.,Reggina Calcio,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/gaetano-de-rosa/profil/spieler/22106
+Genoa CFC,Fabiano,27,Brazil,Left-Back,LB,-,AC Arezzo,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/fabiano/profil/spieler/38590
+Genoa CFC,Raffaele Longo,28,Italy,Central Midfield,CM,£180Th.,Torino FC,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/raffaele-longo/profil/spieler/21986
+Genoa CFC,Matteo Siligato,20,Italy,attack,attack,-,US Pergocrema 1932,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/matteo-siligato/profil/spieler/292943
+Genoa CFC,Pedro López,22,Spain,midfield,midfield,-,AC Arezzo,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/pedro-lopez/profil/spieler/118407
+Genoa CFC,Tiago Pires,19,Portugal,Centre-Back,CB,-,Sporting CP U19,Portugal,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/tiago-pires/profil/spieler/94919
+Genoa CFC,Ilyas Zeytulaev,23,Uzbekistan,Left Winger,LW,£180Th.,Reggina Calcio,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/ilyas-zeytulaev/profil/spieler/34345
+Genoa CFC,Domenico Criscito,19,Italy,Left-Back,LB,-,Juventus Primavera,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/domenico-criscito/profil/spieler/44136
+Genoa CFC,Ivan Juric,30,Croatia,Defensive Midfield,DM,£180Th.,FC Crotone,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/ivan-juric/profil/spieler/22150
+Genoa CFC,Giuseppe Sculli,25,Italy,Left Winger,LW,£1.80m,Juventus FC,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/giuseppe-sculli/profil/spieler/6046
+Genoa CFC,Salvatore Aurelio,20,Italy,Left Winger,LW,-,Hellas Verona,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/salvatore-aurelio/profil/spieler/38579
+Genoa CFC,Federico Nieto,22,Argentina,Centre-Forward,CF,£450Th.,Club Almagro,Argentina,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/federico-nieto/profil/spieler/30858
+Genoa CFC,Omar Milanetto,30,Italy,Defensive Midfield,DM,£540Th.,Brescia Calcio,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/omar-milanetto/profil/spieler/7430
+Genoa CFC,Francesco Bega,31,Italy,Centre-Back,CB,£360Th.,Cagliari Calcio,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/francesco-bega/profil/spieler/21904
+Genoa CFC,Fernando Forestieri,16,Italy,Second Striker,SS,-,Genoa Primavera,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/fernando-forestieri/profil/spieler/44948
+Genoa CFC,Diego Milito,27,Argentina,Centre-Forward,CF,£5.40m,Real Zaragoza,Spain,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/diego-milito/profil/spieler/22202
+Genoa CFC,Antonio Nocerino,21,Italy,Central Midfield,CM,£450Th.,FC Messina Peloro,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/antonio-nocerino/profil/spieler/22203
+Genoa CFC,Giuseppe Greco,22,Italy,Centre-Forward,CF,-,US Catanzaro,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/giuseppe-greco/profil/spieler/44137
+Genoa CFC,Lucas Rimoldi,26,Argentina,Central Midfield,CM,£90Th.,Club Atlético Colón,Argentina,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/lucas-rimoldi/profil/spieler/22211
+Genoa CFC,Mariano Stendardo,23,Italy,Centre-Back,CB,£113Th.,AC Bellaria Igea Marina,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/mariano-stendardo/profil/spieler/24331
+AC Mantova 1911,Marco Bernacci,22,Italy,Centre-Forward,CF,£720Th.,AC Cesena,Italy,£1.35m,In,2006,s,serie-b,https://www.transfermarkt.co.uk/marco-bernacci/profil/spieler/24292
+AC Mantova 1911,Filippo Cristante,29,Italy,Centre-Back,CB,£1.80m,FC Messina Peloro,Italy,£270Th.,In,2006,s,serie-b,https://www.transfermarkt.co.uk/filippo-cristante/profil/spieler/21784
+AC Mantova 1911,Federico Rizzi,25,Italy,Left-Back,LB,-,AS Pizzighettone,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/federico-rizzi/profil/spieler/41632
+AC Mantova 1911,Luca Franchini,22,Italy,Left-Back,LB,£90Th.,Pro Patria Gallaratese GB,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/luca-franchini/profil/spieler/22110
+AC Mantova 1911,Alberto Creati,17,Italy,Defensive Midfield,DM,-,Renato Curi Angolana,Italy,,In,2006,s,serie-b,https://www.transfermarkt.co.uk/alberto-creati/profil/spieler/76108
+AC Mantova 1911,Cristian Altinier,23,Italy,Centre-Forward,CF,£180Th.,AS Cittadella,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/cristian-altinier/profil/spieler/34907
+Brescia Calcio,Marco Ambrosio,33,Italy,Goalkeeper,GK,£900Th.,Salernitana Calcio 1919,Italy,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/marco-ambrosio/profil/spieler/4294
+Brescia Calcio,Kamil Krol,19,Poland,Centre-Forward,CF,£225Th.,Górnik Zabrze,Poland,free transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/kamil-krol/profil/spieler/29942
+Brescia Calcio,Alessio Cerci,19,Italy,Right Winger,RW,£720Th.,AS Roma,Italy,loan transfer,In,2006,s,serie-b,https://www.transfermarkt.co.uk/alessio-cerci/profil/spieler/21748
+Brescia Calcio,Roberto Guana,25,Italy,Central Midfield,CM,£1.35m,Ascoli Calcio 1898,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/roberto-guana/profil/spieler/5976
+Brescia Calcio,Matteo Serafini,28,Italy,Centre-Forward,CF,£450Th.,FC Empoli,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/matteo-serafini/profil/spieler/21698
+Brescia Calcio,Corrado Colombo,26,Italy,Centre-Forward,CF,£900Th.,UC Sampdoria,Italy,?,In,2006,s,serie-b,https://www.transfermarkt.co.uk/corrado-colombo/profil/spieler/21231
+Brescia Calcio,Gaetano Berardi,17,Switzerland,Right-Back,RB,-,Brescia Primavera,Italy,-,In,2006,s,serie-b,https://www.transfermarkt.co.uk/gaetano-berardi/profil/spieler/43084
+Brescia Calcio,Emiliano Viviano,20,Italy,Goalkeeper,GK,£270Th.,AC Cesena,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/emiliano-viviano/profil/spieler/24316
+Brescia Calcio,Abderrazzak Jadid,23,Morocco,Central Midfield,CM,£135Th.,Delfino Pescara 1936,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/abderrazzak-jadid/profil/spieler/16896
+Brescia Calcio,Cyril Gona,21,Nigeria,Defensive Midfield,DM,£72Th.,Potenza Sport Club,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/cyril-gona/profil/spieler/16895
+Brescia Calcio,Luigi Dipasquale,25,Italy,Centre-Forward,CF,£180Th.,Perugia Calcio,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/luigi-dipasquale/profil/spieler/28014
+Brescia Calcio,Luis Alfageme,21,Argentina,Centre-Forward,CF,-,ASD Acireale Calcio,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/luis-alfageme/profil/spieler/43079
+Brescia Calcio,Ernesto Luca Fiumicelli,21,Italy,attack,attack,-,Sangiovannese 1927,Italy,"End of loanJun 30, 2006",In,2006,s,serie-b,https://www.transfermarkt.co.uk/ernesto-luca-fiumicelli/profil/spieler/43094
+Bologna FC 1909,Ciro Capuano,24,Italy,Centre-Back,CB,-,US Palermo,Italy,£900Th.,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/ciro-capuano/profil/spieler/38584
+Bologna FC 1909,Gianluca Pagliuca,39,Italy,Goalkeeper,GK,£270Th.,Ascoli Calcio 1898,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/gianluca-pagliuca/profil/spieler/5985
+Bologna FC 1909,Fabio Pecchia,32,Italy,Right Midfield,RM,£900Th.,Ascoli Calcio 1898,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/fabio-pecchia/profil/spieler/16871
+Bologna FC 1909,Valentin Nastase,31,Romania,Centre-Back,CB,£90Th.,Ascoli Calcio 1898,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/valentin-nastase/profil/spieler/28024
+Bologna FC 1909,Emanuele Manitta,29,Italy,Goalkeeper,GK,£315Th.,AS Livorno,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/emanuele-manitta/profil/spieler/24327
+Bologna FC 1909,Ivan Pedrelli,20,Italy,Right-Back,RB,-,Hellas Verona,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/ivan-pedrelli/profil/spieler/38601
+Bologna FC 1909,Fabio Vignaroli,30,Italy,Centre-Forward,CF,£900Th.,AS Bari,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/fabio-vignaroli/profil/spieler/17153
+Bologna FC 1909,Gabriele Paonessa,19,Italy,Attacking Midfield,AM,-,Vicenza Calcio,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/gabriele-paonessa/profil/spieler/56875
+Bologna FC 1909,Francesco Della Rocca,18,Italy,Central Midfield,CM,-,US Sambenedettese,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/francesco-della-rocca/profil/spieler/56889
+Bologna FC 1909,Luca Ferrari,20,Italy,Central Midfield,CM,-,San Marino,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/luca-ferrari/profil/spieler/56866
+Bologna FC 1909,Massimo Loviso,22,Italy,Defensive Midfield,DM,£2.07m,US Sambenedettese,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/massimo-loviso/profil/spieler/16869
+Bologna FC 1909,Pasquale D'Aniello,20,Italy,defence,defence,-,SEF Torres 1903,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/pasquale-daniello/profil/spieler/203230
+Bologna FC 1909,Leonardo Colucci,33,Italy,Central Midfield,CM,£180Th.,Cagliari Calcio,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/leonardo-colucci/profil/spieler/6000
+Bologna FC 1909,Luca Tedeschi,19,Italy,Centre-Back,CB,£225Th.,US Cremonese,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/luca-tedeschi/profil/spieler/28030
+Bologna FC 1909,Piermario Morosini,20,Italy,Central Midfield,CM,£180Th.,Udinese Calcio,Italy,"End of loanMay 1, 2007",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/piermario-morosini/profil/spieler/35864
+Bologna FC 1909,Angelo Antonazzo,24,Italy,Right-Back,RB,£180Th.,Ascoli Calcio 1898,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/angelo-antonazzo/profil/spieler/38577
+Juventus FC,Zlatan Ibrahimovic,24,Sweden,Centre-Forward,CF,£22.50m,FC Internazionale,Italy,£22.32m,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/zlatan-ibrahimovic/profil/spieler/3455
+Juventus FC,Émerson,30,Brazil,Defensive Midfield,DM,£23.40m,Real Madrid,Spain,£14.40m,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/emerson/profil/spieler/70
+Juventus FC,Gianluca Zambrotta,29,Italy,Right-Back,RB,£23.40m,FC Barcelona,Spain,£12.60m,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/gianluca-zambrotta/profil/spieler/5757
+Juventus FC,Patrick Vieira,30,France,Defensive Midfield,DM,£25.20m,FC Internazionale,Italy,£8.55m,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/patrick-vieira/profil/spieler/3183
+Juventus FC,Adrian Mutu,27,Romania,Centre-Forward,CF,£9.90m,ACF Fiorentina,Italy,£7.20m,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/adrian-mutu/profil/spieler/5879
+Juventus FC,Fabio Cannavaro,32,Italy,Centre-Back,CB,£12.60m,Real Madrid,Spain,£6.30m,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/fabio-cannavaro/profil/spieler/5775
+Juventus FC,Lilian Thuram,34,France,Centre-Back,CB,£4.50m,FC Barcelona,Spain,£4.50m,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/lilian-thuram/profil/spieler/3521
+Juventus FC,Simone Bentivoglio,21,Italy,Central Midfield,CM,£45Th.,Chievo Verona,Italy,£198Th.,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/simone-bentivoglio/profil/spieler/34909
+Juventus FC,Manuele Blasi,25,Italy,Central Midfield,CM,£5.40m,ACF Fiorentina,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/manuele-blasi/profil/spieler/6090
+Juventus FC,Olivier Kapo,25,France,Attacking Midfield,AM,£3.60m,Levante UD,Spain,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/olivier-kapo/profil/spieler/5438
+Juventus FC,Alessandro La Vecchia,21,Italy,midfield,midfield,-,Real Teramo,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/alessandro-la-vecchia/profil/spieler/398605
+Juventus FC,Landry Bonnefoi,22,France,Goalkeeper,GK,£180Th.,FC Metz,France,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/landry-bonnefoi/profil/spieler/19119
+Juventus FC,Andrea Rossi,19,Italy,Left-Back,LB,-,Robur Siena,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/andrea-rossi/profil/spieler/44280
+Juventus FC,Rey Volpato,19,Italy,Centre-Forward,CF,£90Th.,AC Arezzo,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/rey-volpato/profil/spieler/35847
+Juventus FC,Giuseppe Sculli,25,Italy,Left Winger,LW,£1.80m,Genoa CFC,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/giuseppe-sculli/profil/spieler/6046
+Juventus FC,Marco Russo,19,Italy,defence,defence,-,Real Teramo,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/marco-russo/profil/spieler/512898
+Juventus FC,Luigi Lavecchia,24,Italy,Right Midfield,RM,£450Th.,FC Messina Peloro,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/luigi-lavecchia/profil/spieler/19244
+Juventus FC,Abdoulay Konko,22,France,Right-Back,RB,£540Th.,Robur Siena,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/abdoulay-konko/profil/spieler/22139
+Juventus FC,Michele Paolucci,20,Italy,Centre-Forward,CF,-,Ascoli Calcio 1898,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/michele-paolucci/profil/spieler/41311
+Juventus FC,Rubén Olivera,23,Uruguay,Central Midfield,CM,£2.70m,UC Sampdoria,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/ruben-olivera/profil/spieler/5768
+Juventus FC,Andrea Masiello,20,Italy,Centre-Back,CB,£45Th.,Robur Siena,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/andrea-masiello/profil/spieler/34198
+Juventus FC,Davide Chiumiento,21,Switzerland,Attacking Midfield,AM,£1.13m,BSC Young Boys,Switzerland,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/davide-chiumiento/profil/spieler/17332
+Juventus FC,Andrea Luci,21,Italy,Defensive Midfield,DM,£180Th.,Delfino Pescara 1936,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/andrea-luci/profil/spieler/43271
+Juventus FC,Claudio Scarzanella,20,Italy,Goalkeeper,GK,-,FC Crotone,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/claudio-scarzanella/profil/spieler/83385
+Juventus FC,Francesco Volpe,20,Italy,Right Winger,RW,-,Ravenna Calcio,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/francesco-volpe/profil/spieler/55002
+Juventus FC,Gianluca Pessotto,35,Italy,Left-Back,LB,£900Th.,,Retired,-,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/gianluca-pessotto/profil/spieler/5751
+Juventus FC,Christian Abbiati,28,Italy,Goalkeeper,GK,£4.05m,AC Milan,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/christian-abbiati/profil/spieler/3507
+Treviso FBC 1993,Massimo Gobbi,26,Italy,Left-Back,LB,£1.80m,ACF Fiorentina,Italy,£3.42m,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/massimo-gobbi/profil/spieler/28020
+Treviso FBC 1993,Reginaldo,22,Brazil,Centre-Forward,CF,£1.35m,ACF Fiorentina,Italy,£1.35m,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/reginaldo/profil/spieler/23365
+Treviso FBC 1993,Andrea Dossena,24,Italy,Left Midfield,LM,£360Th.,Udinese Calcio,Italy,£450Th.,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/andrea-dossena/profil/spieler/21863
+Treviso FBC 1993,Francesco Galeoto,34,Italy,Right-Back,RB,-,AC Arezzo,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/francesco-galeoto/profil/spieler/23357
+Treviso FBC 1993,Damien Florian,19,Italy,Centre-Forward,CF,-,AC Carpenedolo,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/damien-florian/profil/spieler/23355
+Treviso FBC 1993,Siumar,23,Brazil,midfield,midfield,-,,Unknown,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/siumar/profil/spieler/566579
+Treviso FBC 1993,Stefano Dall'Acqua,25,Italy,Centre-Forward,CF,-,US Foggia,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/stefano-dallacqua/profil/spieler/23352
+Treviso FBC 1993,Daniele Lorenzini,25,Italy,Goalkeeper,GK,-,SPAL 1907,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/daniele-lorenzini/profil/spieler/23252
+Treviso FBC 1993,Francesco Parravicini,24,Italy,Defensive Midfield,DM,£810Th.,ACF Fiorentina,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/francesco-parravicini/profil/spieler/23364
+Treviso FBC 1993,Divine Fonjock,19,Cameroon,Defensive Midfield,DM,-,SPAL 1907,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/divine-fonjock/profil/spieler/23356
+Treviso FBC 1993,Alessio Sestu,22,Italy,Right Winger,RW,-,Salernitana Calcio 1919,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/alessio-sestu/profil/spieler/23367
+Treviso FBC 1993,Antonio Filippini,33,Italy,Right Midfield,RM,£900Th.,AS Livorno,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/antonio-filippini/profil/spieler/5973
+Treviso FBC 1993,Adriano Zancopè,34,Italy,Goalkeeper,GK,£540Th.,Vicenza Calcio,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/adriano-zancope/profil/spieler/6035
+Treviso FBC 1993,Roberto Chiappara,32,Italy,Right Midfield,RM,-,AC Arezzo,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/roberto-chiappara/profil/spieler/23349
+Treviso FBC 1993,Emanuele Filippini,33,Italy,Central Midfield,CM,£900Th.,Bologna FC 1909,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/emanuele-filippini/profil/spieler/5871
+Treviso FBC 1993,Marco Borriello,24,Italy,Centre-Forward,CF,£2.70m,AC Milan,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/marco-borriello/profil/spieler/5825
+Treviso FBC 1993,Paolo Dellafiore,21,Italy,Centre-Back,CB,£1.35m,FC Internazionale,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/paolo-dellafiore/profil/spieler/28935
+Treviso FBC 1993,Walter Baseggio,27,Belgium,Central Midfield,CM,£1.35m,RSC Anderlecht,Belgium,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/walter-baseggio/profil/spieler/9590
+Treviso FBC 1993,Christian Maggio,24,Italy,Right-Back,RB,£720Th.,ACF Fiorentina,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/christian-maggio/profil/spieler/21151
+Treviso FBC 1993,Raffaele De Martino,20,Italy,Defensive Midfield,DM,£180Th.,Udinese Calcio,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/raffaele-de-martino/profil/spieler/17222
+Treviso FBC 1993,Gianni Guigou,31,Uruguay,Defensive Midfield,DM,£720Th.,ACF Fiorentina,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/gianni-guigou/profil/spieler/5954
+Treviso FBC 1993,Fabio Roselli,23,Italy,Defensive Midfield,DM,£45Th.,AC Arezzo,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/fabio-roselli/profil/spieler/29567
+Treviso FBC 1993,Gustavo Lazzaretti,22,Brazil,Centre-Back,CB,£360Th.,Botafogo de Futebol e Regatas,Brazil,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/gustavo-lazzaretti/profil/spieler/33333
+Treviso FBC 1993,André Pinga,25,Brazil,Attacking Midfield,AM,£2.25m,Torino FC,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/andre-pinga/profil/spieler/21889
+UC AlbinoLeffe,Christian Araboni,27,Italy,Centre-Forward,CF,£450Th.,AC Pro Sesto,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/christian-araboni/profil/spieler/22233
+UC AlbinoLeffe,Mario Salgado,25,Chile,Centre-Forward,CF,£1.44m,US Foggia,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/mario-salgado/profil/spieler/5984
+UC AlbinoLeffe,Mauro Belotti,22,Italy,Centre-Back,CB,-,US Pergocrema 1932,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/mauro-belotti/profil/spieler/39674
+UC AlbinoLeffe,Mauro Minelli,25,Italy,Centre-Back,CB,£495Th.,Calcio Catania,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/mauro-minelli/profil/spieler/21693
+UC AlbinoLeffe,Giulio Vezzoli,23,Italy,midfield,midfield,-,Tritium Calcio 1908,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/giulio-vezzoli/profil/spieler/38654
+UC AlbinoLeffe,Davide Galli,19,Italy,defence,defence,-,AC Prato,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/davide-galli/profil/spieler/338961
+UC AlbinoLeffe,Albino Serafini,19,Italy,attack,attack,-,US Pro Vercelli,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/albino-serafini/profil/spieler/439917
+UC AlbinoLeffe,Maurizio Rossi,19,Italy,defence,defence,-,US Pro Vercelli,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/maurizio-rossi/profil/spieler/550575
+UC AlbinoLeffe,Paolo Comi,22,Italy,Goalkeeper,GK,£45Th.,Tritium Calcio 1908,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/paolo-comi/profil/spieler/17156
+UC AlbinoLeffe,Mirko Austoni,19,Italy,Central Midfield,CM,-,AC Voghera,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/mirko-austoni/profil/spieler/216049
+UC AlbinoLeffe,Marco Gorzegno,25,Italy,Centre-Back,CB,£72Th.,Spezia Calcio 1906,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/marco-gorzegno/profil/spieler/22243
+UC AlbinoLeffe,Alessandro Diamanti,23,Italy,Attacking Midfield,AM,£270Th.,AC Prato,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/alessandro-diamanti/profil/spieler/23197
+UC AlbinoLeffe,Vincenzo Iacopino,29,Italy,Attacking Midfield,AM,£45Th.,AC Monza Brianza,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/vincenzo-iacopino/profil/spieler/27806
+UC AlbinoLeffe,Pierre Regonesi,27,Italy,Left-Back,LB,£270Th.,Rimini FC,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/pierre-regonesi/profil/spieler/22250
+UC AlbinoLeffe,Emiliano Testini,29,Italy,Left Winger,LW,£450Th.,US Triestina,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/emiliano-testini/profil/spieler/22254
+UC AlbinoLeffe,Marco Teani,26,Italy,Right-Back,RB,£225Th.,Cisco Roma,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/marco-teani/profil/spieler/22253
+UC AlbinoLeffe,Paolo Ginestra,27,Italy,Goalkeeper,GK,£72Th.,AS Livorno,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/paolo-ginestra/profil/spieler/29565
+UC AlbinoLeffe,Nello Russo,25,Italy,Centre-Forward,CF,£180Th.,FC Crotone,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/nello-russo/profil/spieler/29596
+Delfino Pescara 1936,Modibo Diakité,19,France,Centre-Back,CB,-,SS Lazio,Italy,£270Th.,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/modibo-diakite/profil/spieler/41749
+Delfino Pescara 1936,Davide Caremi,22,Italy,Central Midfield,CM,£45Th.,UC AlbinoLeffe,Italy,£117Th.,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/davide-caremi/profil/spieler/28831
+Delfino Pescara 1936,Fabrizio Cammarata,30,Italy,Centre-Forward,CF,£315Th.,Taranto FC 1927,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/fabrizio-cammarata/profil/spieler/16890
+Delfino Pescara 1936,Alessandro Beccaria,18,Italy,Centre-Forward,CF,-,AC Reggiana 1919,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/alessandro-beccaria/profil/spieler/248217
+Delfino Pescara 1936,Davide Pradolin,23,Italy,Left Midfield,LM,-,SSC Venezia,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/davide-pradolin/profil/spieler/102003
+Delfino Pescara 1936,Alessandro Rapino,18,Italy,Centre-Back,CB,-,FC Pro Vasto,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/alessandro-rapino/profil/spieler/140315
+Delfino Pescara 1936,Daniel Ciofani,21,Italy,Centre-Forward,CF,-,Celano FC Olimpia,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/daniel-ciofani/profil/spieler/29605
+Delfino Pescara 1936,Daniele Croce,23,Italy,Central Midfield,CM,£360Th.,AC Arezzo,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/daniele-croce/profil/spieler/22749
+Delfino Pescara 1936,Marco Pomante,23,Italy,Centre-Back,CB,£90Th.,Giulianova Calcio,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/marco-pomante/profil/spieler/22757
+Delfino Pescara 1936,Mario Bonfiglio,32,Italy,Centre-Forward,CF,-,Ternana Calcio,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/mario-bonfiglio/profil/spieler/225438
+Delfino Pescara 1936,Gianluca Triuzzi,27,Italy,Centre-Forward,CF,-,SS Virtus Lanciano,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/gianluca-triuzzi/profil/spieler/225437
+Delfino Pescara 1936,Vincenzo Pepe,19,Italy,Right Winger,RW,-,US Cremonese,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/vincenzo-pepe/profil/spieler/90200
+Delfino Pescara 1936,Antonio Mottola,19,Italy,Centre-Back,CB,-,FC Pro Vasto,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/antonio-mottola/profil/spieler/102546
+Delfino Pescara 1936,Daniele Delli Carri,34,Italy,Centre-Back,CB,£90Th.,US Foggia,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/daniele-delli-carri/profil/spieler/15336
+Delfino Pescara 1936,Luca Tognozzi,28,Italy,Central Midfield,CM,-,Reggina Calcio,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/luca-tognozzi/profil/spieler/45288
+Delfino Pescara 1936,Daniele Cinelli,30,Italy,Defensive Midfield,DM,£90Th.,Gallipoli Calcio,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/daniele-cinelli/profil/spieler/32078
+Delfino Pescara 1936,Stefano Di Berardino,19,Italy,Centre-Back,CB,-,Juventus Primavera,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/stefano-di-berardino/profil/spieler/42844
+Delfino Pescara 1936,Ivan Vellucci,19,Italy,Right Winger,RW,-,SS Virtus Lanciano,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/ivan-vellucci/profil/spieler/42900
+Delfino Pescara 1936,Vincenzo Aridità,20,Italy,Goalkeeper,GK,-,FC Pro Vasto,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/vincenzo-aridita/profil/spieler/22745
+Delfino Pescara 1936,Emanuele Pesaresi,29,Italy,Left-Back,LB,£450Th.,US Triestina,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/emanuele-pesaresi/profil/spieler/5840
+Delfino Pescara 1936,Luca Vigna,28,Italy,attack,attack,£180Th.,AC Arezzo,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/luca-vigna/profil/spieler/23342
+Delfino Pescara 1936,Vlada Avramov,27,Serbia,Goalkeeper,GK,£450Th.,Vicenza Calcio,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/vlada-avramov/profil/spieler/22185
+Delfino Pescara 1936,Eder Baù,23,Italy,Right Winger,RW,£135Th.,US Triestina,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/eder-bau/profil/spieler/21903
+Delfino Pescara 1936,Abderrazzak Jadid,23,Morocco,Central Midfield,CM,£135Th.,Brescia Calcio,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/abderrazzak-jadid/profil/spieler/16896
+Delfino Pescara 1936,Davide Matteini,24,Italy,Left Winger,LW,£180Th.,US Palermo,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/davide-matteini/profil/spieler/29593
+Hellas Verona,Mattia Cassani,22,Italy,Right-Back,RB,£540Th.,US Palermo,Italy,£2.25m,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/mattia-cassani/profil/spieler/21859
+Hellas Verona,Adaílton,29,Brazil,Second Striker,SS,£1.62m,Genoa CFC,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/adailton/profil/spieler/21853
+Hellas Verona,Dario Biasi,26,Italy,Centre-Back,CB,£450Th.,Genoa CFC,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/dario-biasi/profil/spieler/21856
+Hellas Verona,Gabriel Hofer,22,Italy,Goalkeeper,GK,-,Novara Calcio 1908,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/gabriel-hofer/profil/spieler/40929
+Hellas Verona,Craig Davies,20,Wales,Centre-Forward,CF,£270Th.,Wolverhampton Wanderers,England,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/craig-davies/profil/spieler/38586
+Hellas Verona,Giuseppe Colucci,25,Italy,Central Midfield,CM,£1.80m,Calcio Catania,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/giuseppe-colucci/profil/spieler/6717
+Hellas Verona,Carlo Gervasoni,24,Italy,Centre-Back,CB,£180Th.,AS Bari,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/carlo-gervasoni/profil/spieler/22293
+Hellas Verona,Julien Rantier,22,France,Second Striker,SS,£360Th.,Piacenza FC,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/julien-rantier/profil/spieler/22208
+Hellas Verona,Gianni Munari,23,Italy,Central Midfield,CM,£360Th.,US Palermo,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/gianni-munari/profil/spieler/22598
+Hellas Verona,Salvatore Aurelio,20,Italy,Left Winger,LW,-,Genoa CFC,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/salvatore-aurelio/profil/spieler/38579
+Hellas Verona,Andrea Doardo,22,Italy,midfield,midfield,£45Th.,Unione Sanremo,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/andrea-doardo/profil/spieler/28865
+Hellas Verona,Stefano Pastrello,22,Italy,Right Midfield,RM,-,US Poggibonsi,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/stefano-pastrello/profil/spieler/148598
+Hellas Verona,Alessio Ferrazza,20,Italy,Central Midfield,CM,-,FC Rieti,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/alessio-ferrazza/profil/spieler/61441
+Hellas Verona,Ivan Pedrelli,20,Italy,Right-Back,RB,-,SSC Venezia,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/ivan-pedrelli/profil/spieler/38601
+Hellas Verona,Luca Pinali,22,Italy,defence,defence,-,AS Viterbese Calcio,Italy,-,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/luca-pinali/profil/spieler/369444
+Hellas Verona,Gladstone,21,Brazil,Centre-Back,CB,£1.80m,Cruzeiro Esporte Clube,Brazil,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/gladstone/profil/spieler/20386
+Hellas Verona,Simone Bonomi,25,Italy,Left-Back,LB,£180Th.,Robur Siena,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/simone-bonomi/profil/spieler/15334
+Hellas Verona,Ferdinando Sforzini,21,Italy,Centre-Forward,CF,£180Th.,Udinese Calcio,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/ferdinando-sforzini/profil/spieler/33349
+Modena FC,Daniele Amerini,31,Italy,Central Midfield,CM,£90Th.,Reggina Calcio,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/daniele-amerini/profil/spieler/22262
+Modena FC,Federico Giampaolo,36,Italy,Attacking Midfield,AM,-,FC Crotone,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/federico-giampaolo/profil/spieler/22273
+Modena FC,Marco Nicoletti,20,Italy,Central Midfield,CM,-,Boca San Lazzaro,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/marco-nicoletti/profil/spieler/29615
+Modena FC,Francesco Stanco,19,Italy,Centre-Forward,CF,-,US Grosseto FC,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/francesco-stanco/profil/spieler/57124
+Modena FC,Damiano Mason,18,Italy,attack,attack,-,Calcio Montebelluna 1909,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/damiano-mason/profil/spieler/403919
+Modena FC,Flavio Giampieretti,32,Italy,Defensive Midfield,DM,£225Th.,AS Lucchese Libertas,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/flavio-giampieretti/profil/spieler/6025
+Modena FC,Mattia Graffiedi,26,Italy,Centre-Forward,CF,£2.88m,US Triestina,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/mattia-graffiedi/profil/spieler/6395
+Modena FC,Cristian Bucchi,29,Italy,Centre-Forward,CF,£1.80m,SSC Napoli,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/cristian-bucchi/profil/spieler/16846
+Modena FC,Giuseppe Gemiti,25,Germany,Left-Back,LB,£450Th.,Piacenza FC,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/giuseppe-gemiti/profil/spieler/735
+Modena FC,Riccardo Bolzan,21,Italy,Left-Back,LB,-,AC Pisa 1909,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/riccardo-bolzan/profil/spieler/38581
+Modena FC,Emanuele Francioni,19,Italy,Centre-Forward,CF,-,US Massese 1919,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/emanuele-francioni/profil/spieler/435716
+Modena FC,Matteo Pivotto,31,Italy,Right-Back,RB,£90Th.,US Triestina,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/matteo-pivotto/profil/spieler/17150
+Modena FC,Tommaso Chiecchi,27,Italy,Centre-Back,CB,£900Th.,Chievo Verona,Italy,"End of loanJun 30, 2007",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/tommaso-chiecchi/profil/spieler/5918
+Modena FC,Davide Redzepi,18,Switzerland,Centre-Back,CB,-,BSC Young Boys U21,Switzerland,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/davide-redzepi/profil/spieler/41009
+Modena FC,Asamoah Gyan,20,Ghana,Centre-Forward,CF,£900Th.,Udinese Calcio,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/asamoah-gyan/profil/spieler/26802
+Modena FC,Riccardo Nardini,23,Italy,Central Midfield,CM,-,Calcio Catania,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/riccardo-nardini/profil/spieler/38600
+Modena FC,Roberto Chiappara,32,Italy,Right Midfield,RM,-,Treviso FBC 1993,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/roberto-chiappara/profil/spieler/23349
+SSC Napoli,Andrea Briotti,20,Italy,Left-Back,LB,£45Th.,US Sassuolo,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/andrea-briotti/profil/spieler/26804
+SSC Napoli,Aniello Nappi,19,Italy,attack,attack,-,AC Savoia 1908,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/aniello-nappi/profil/spieler/339363
+SSC Napoli,Gianluca Poziello,19,Italy,defence,defence,-,Giulianova Calcio,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/gianluca-poziello/profil/spieler/535587
+SSC Napoli,Giuseppe Vorzillo,19,Italy,defence,defence,-,,Unknown,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/giuseppe-vorzillo/profil/spieler/534249
+SSC Napoli,Gaetano Grieco,23,Italy,Centre-Forward,CF,£225Th.,US Avellino,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/gaetano-grieco/profil/spieler/6032
+SSC Napoli,Tommaso Romito,24,Italy,Centre-Back,CB,-,Salernitana Calcio 1919,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/tommaso-romito/profil/spieler/30655
+SSC Napoli,Luca Lacrimini,28,Italy,Left-Back,LB,-,Frosinone Calcio,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/luca-lacrimini/profil/spieler/41807
+SSC Napoli,Gaetano Fontana,36,Italy,Central Midfield,CM,£135Th.,Ascoli Calcio 1898,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/gaetano-fontana/profil/spieler/21150
+SSC Napoli,Fabio Virgili,20,Italy,Goalkeeper,GK,-,Parma FC,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/fabio-virgili/profil/spieler/42978
+Piacenza FC,Ruggero Radice,34,Italy,Left-Back,LB,£90Th.,Sangiovannese 1927,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/ruggero-radice/profil/spieler/21801
+Piacenza FC,Gabriele Aldegani,30,Italy,Goalkeeper,GK,£68Th.,AS Bari,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/gabriele-aldegani/profil/spieler/28828
+Piacenza FC,Francesco Nieto,21,Italy,attack,attack,£90Th.,Calcio Lecco 1912,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/francesco-nieto/profil/spieler/29616
+Piacenza FC,Marco Comotto,22,Italy,Centre-Back,CB,-,SSD Rivarolese 1906,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/marco-comotto/profil/spieler/309064
+Piacenza FC,Gennaro Sardo,27,Italy,Right-Back,RB,£270Th.,Calcio Catania,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/gennaro-sardo/profil/spieler/21770
+Piacenza FC,Massimo Margiotta,28,Venezuela,Second Striker,SS,£630Th.,Frosinone Calcio,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/massimo-margiotta/profil/spieler/22201
+Piacenza FC,Antonio Bocchetti,26,Italy,Left-Back,LB,£180Th.,Parma FC,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/antonio-bocchetti/profil/spieler/21779
+Piacenza FC,Stefano Avogadri,20,Italy,Right-Back,RB,£45Th.,Legnano AC,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/stefano-avogadri/profil/spieler/21892
+Piacenza FC,Matteo Abbate,22,Italy,Centre-Back,CB,£315Th.,AC Ancona,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/matteo-abbate/profil/spieler/21774
+Piacenza FC,Matteo Girometta,20,Italy,attack,attack,-,Cuoiopelli Cappiano Romaiano,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/matteo-girometta/profil/spieler/158039
+Piacenza FC,Daniele La Rocca,18,Italy,Goalkeeper,GK,-,US Vibonese,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/daniele-la-rocca/profil/spieler/556268
+Piacenza FC,Massimo Ganci,24,Italy,Centre-Forward,CF,£630Th.,Treviso FBC 1993,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/massimo-ganci/profil/spieler/28019
+Piacenza FC,Luca Rigoni,21,Italy,Central Midfield,CM,£450Th.,Reggina Calcio,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/luca-rigoni/profil/spieler/22210
+Piacenza FC,Damiano Moscardi,32,Italy,Right Midfield,RM,£225Th.,Vicenza Calcio,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/damiano-moscardi/profil/spieler/28872
+Piacenza FC,Ignazio Abate,19,Italy,Right-Back,RB,£45Th.,AC Milan,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/ignazio-abate/profil/spieler/16631
+US Lecce,Cristian Ledesma,23,Italy,Defensive Midfield,DM,£8.10m,SS Lazio,Italy,£4.77m,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/cristian-ledesma/profil/spieler/6438
+US Lecce,Mirko Vucinic,22,Montenegro,Second Striker,SS,£11.25m,AS Roma,Italy,Loan fee:£2.93m,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/mirko-vucinic/profil/spieler/6448
+US Lecce,Marco Cassetti,29,Italy,Right-Back,RB,£5.40m,AS Roma,Italy,£2.12m,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/marco-cassetti/profil/spieler/16975
+US Lecce,Philippe Billy,24,France,Right-Back,RB,£135Th.,Stade Lavallois,France,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/philippe-billy/profil/spieler/16977
+US Lecce,Graziano Pellè,20,Italy,Centre-Forward,CF,£900Th.,AC Cesena,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/graziano-pelle/profil/spieler/29594
+US Lecce,Francesco Giorgetti,21,Italy,Left Midfield,LM,-,San Marino,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/francesco-giorgetti/profil/spieler/139027
+US Lecce,Giuseppe Abruzzese,25,Italy,Centre-Back,CB,£90Th.,US Triestina,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/giuseppe-abruzzese/profil/spieler/6417
+US Lecce,Axel Konan,23,Cote d'Ivoire,Left Winger,LW,£1.08m,Torino FC,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/axel-konan/profil/spieler/6429
+US Lecce,Lorenzo Stovini,29,Italy,Centre-Back,CB,£720Th.,Calcio Catania,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/lorenzo-stovini/profil/spieler/6446
+US Lecce,Alex Pinardi,25,Italy,Defensive Midfield,DM,£900Th.,Modena FC,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/alex-pinardi/profil/spieler/19448
+US Lecce,Gabriel Cichero,22,Venezuela,Centre-Back,CB,£180Th.,FC Vihren Sandanski,Bulgaria,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/gabriel-cichero/profil/spieler/37966
+US Lecce,Marco Pecorari,28,Italy,Centre-Back,CB,£450Th.,Ascoli Calcio 1898,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/marco-pecorari/profil/spieler/21950
+US Lecce,Davide Giorgino,21,Italy,Central Midfield,CM,£270Th.,US Sambenedettese,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/davide-giorgino/profil/spieler/35850
+US Lecce,Andrea Esposito,20,Italy,Centre-Back,CB,£90Th.,US Sambenedettese,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/andrea-esposito/profil/spieler/35849
+US Lecce,Cristian Agnelli,20,Italy,Central Midfield,CM,£270Th.,Salernitana Calcio 1919,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/cristian-agnelli/profil/spieler/21854
+US Lecce,Italo Mattioli,21,Italy,Centre-Forward,CF,£270Th.,Salernitana Calcio 1919,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/italo-mattioli/profil/spieler/32987
+US Lecce,Francesco Marianini,27,Italy,Central Midfield,CM,£720Th.,FC Empoli,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/francesco-marianini/profil/spieler/21936
+US Lecce,Vincenzo Sicignano,31,Italy,Goalkeeper,GK,£540Th.,Chievo Verona,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/vincenzo-sicignano/profil/spieler/16978
+US Lecce,Karim Saïdi,23,Tunisia,Centre-Back,CB,£1.44m,Feyenoord Rotterdam,Netherlands,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/karim-saidi/profil/spieler/17930
+US Lecce,Gennaro Delvecchio,28,Italy,Central Midfield,CM,£450Th.,UC Sampdoria,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/gennaro-delvecchio/profil/spieler/22080
+US Lecce,Luca Saudati,27,Italy,Centre-Forward,CF,£540Th.,Atalanta BC,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/luca-saudati/profil/spieler/6029
+AS Bari,Lorenzo Sibilano,27,Italy,Centre-Back,CB,£360Th.,Hellas Verona,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/lorenzo-sibilano/profil/spieler/22152
+AS Bari,Roberto Goretti,30,Italy,Defensive Midfield,DM,£225Th.,AC Arezzo,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/roberto-goretti/profil/spieler/6002
+AS Bari,Biagio Pagano,23,Italy,Right Winger,RW,£450Th.,Rimini FC,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/biagio-pagano/profil/spieler/16899
+AS Bari,Luigi Anaclerio,25,Italy,attack,attack,£180Th.,Hellas Verona,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/luigi-anaclerio/profil/spieler/22322
+AS Bari,Michele Lanzillotta,22,Italy,Central Midfield,CM,£90Th.,SS Virtus Lanciano,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/michele-lanzillotta/profil/spieler/22332
+AS Bari,Christian Romanelli,21,Italy,Centre-Forward,CF,£90Th.,US Pistoiese 1921,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/christian-romanelli/profil/spieler/28846
+AS Bari,Luigi Rana,19,Italy,Centre-Forward,CF,-,Gallipoli Calcio,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/luigi-rana/profil/spieler/137114
+AS Bari,Danilo Fusaro,20,Italy,Centre-Back,CB,-,Val Di Sangro,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/danilo-fusaro/profil/spieler/285500
+AS Bari,Emanuele Brioschi,31,Italy,Centre-Back,CB,£90Th.,Bologna FC 1909,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/emanuele-brioschi/profil/spieler/5992
+AS Bari,Vitangelo Spadavecchia,23,Italy,Goalkeeper,GK,£90Th.,Delfino Pescara 1936,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/vitangelo-spadavecchia/profil/spieler/22125
+AS Bari,Michele Anaclerio,24,Italy,Centre-Back,CB,£90Th.,Piacenza FC,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/michele-anaclerio/profil/spieler/22097
+AS Bari,Marco Candrina,24,Italy,Right-Back,RB,£90Th.,Pro Patria Gallaratese GB,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/marco-candrina/profil/spieler/22103
+AS Bari,Domenico Lops,18,Italy,attack,attack,-,,Without Club,-,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/domenico-lops/profil/spieler/373524
+AS Bari,Massimo Ganci,24,Italy,Centre-Forward,CF,£630Th.,Piacenza FC,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/massimo-ganci/profil/spieler/28019
+Spezia Calcio 1906,Saverio Guariniello,23,Italy,Centre-Forward,CF,-,SEF Torres 1903,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/saverio-guariniello/profil/spieler/42118
+Spezia Calcio 1906,Alberto Bianchi,25,Italy,Centre-Back,CB,-,US Grosseto FC,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/alberto-bianchi/profil/spieler/61595
+Spezia Calcio 1906,Davide Addona,23,Italy,Left-Back,LB,-,AC Pro Sesto,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/davide-addona/profil/spieler/42115
+Spezia Calcio 1906,Francesco Zizzari,24,Italy,Centre-Forward,CF,-,US Grosseto FC,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/francesco-zizzari/profil/spieler/68308
+Spezia Calcio 1906,Vanni Pessotto,32,Italy,Central Midfield,CM,-,AC Reggiana 1919,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/vanni-pessotto/profil/spieler/318732
+Spezia Calcio 1906,Hugo Rubini,36,Argentina,Goalkeeper,GK,-,USD Forte dei Marmi,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/hugo-rubini/profil/spieler/245801
+Spezia Calcio 1906,Walter Paruta,24,Italy,defence,defence,-,FC Pro Vasto,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/walter-paruta/profil/spieler/492809
+Spezia Calcio 1906,Thomas Sofrà,17,Italy,defence,defence,-,,Unknown,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/thomas-sofra/profil/spieler/492810
+Spezia Calcio 1906,Jonathan Villa,22,Italy,attack,attack,-,AS Biellese,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/jonathan-villa/profil/spieler/549089
+Spezia Calcio 1906,Matteo Pelatti,28,Italy,Centre-Forward,CF,-,US Sassuolo,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/matteo-pelatti/profil/spieler/42121
+Spezia Calcio 1906,Simone Groppi,30,Italy,Left-Back,LB,£180Th.,US Triestina,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/simone-groppi/profil/spieler/24309
+Spezia Calcio 1906,Giampaolo Ciarciá,26,Italy,Central Midfield,CM,£90Th.,FC Crotone,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/giampaolo-ciarcia/profil/spieler/22134
+AC Arezzo,Simone Confalone,32,Italy,Central Midfield,CM,£180Th.,Spezia Calcio 1906,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/simone-confalone/profil/spieler/24304
+AC Arezzo,Ivan Javorcic,27,Croatia,Defensive Midfield,DM,£63Th.,AS Pizzighettone,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/ivan-javorcic/profil/spieler/23227
+AC Arezzo,Liborio Zuppardo,21,Italy,Centre-Forward,CF,-,Val Di Sangro,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/liborio-zuppardo/profil/spieler/43270
+AC Arezzo,Cristian Raimondi,25,Italy,Right Midfield,RM,£810Th.,Vicenza Calcio,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/cristian-raimondi/profil/spieler/22249
+AC Arezzo,Massimiliano Vieri,27,Australia,Centre-Forward,CF,£68Th.,Novara Calcio 1908,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/massimiliano-vieri/profil/spieler/6148
+AC Arezzo,Mirko Barbagli,23,Italy,Left-Back,LB,£72Th.,US Grosseto FC,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/mirko-barbagli/profil/spieler/23171
+AC Arezzo,Giovanni Passiglia,24,Italy,Defensive Midfield,DM,£720Th.,AC Pisa 1909,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/giovanni-passiglia/profil/spieler/6812
+AC Arezzo,Emanuele D'Anna,24,Italy,Right Midfield,RM,-,SS Juve Stabia,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/emanuele-danna/profil/spieler/56605
+AC Arezzo,Pedro López,22,Spain,midfield,midfield,-,Genoa CFC,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/pedro-lopez/profil/spieler/118407
+AC Arezzo,Davide Sinigaglia,25,Italy,Centre-Forward,CF,£450Th.,Calcio Padova,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/davide-sinigaglia/profil/spieler/28825
+AC Arezzo,Fabiano,27,Brazil,Left-Back,LB,-,Genoa CFC,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/fabiano/profil/spieler/38590
+AC Arezzo,Saidu Alade Adeshina,23,Nigeria,Centre-Forward,CF,£72Th.,AC Bellinzona,Switzerland,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/saidu-alade-adeshina/profil/spieler/21751
+AC Arezzo,Fabio Lauria,19,Italy,Second Striker,SS,-,AC Martina 1947,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/fabio-lauria/profil/spieler/38594
+AC Arezzo,Mattia Menichini,24,Italy,Centre-Forward,CF,-,AS Cittadella,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/mattia-menichini/profil/spieler/41031
+AC Arezzo,Antonio Ayala,22,Spain,Centre-Back,CB,-,Real Murcia CF,Spain,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/antonio-ayala/profil/spieler/39673
+AC Arezzo,Moris Carrozzieri,25,Italy,Centre-Back,CB,£90Th.,UC Sampdoria,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/moris-carrozzieri/profil/spieler/6747
+AC Arezzo,Inigo Imaz Vallejo,26,Spain,Goalkeeper,GK,-,Real Jaén CF,Spain,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/inigo-imaz-vallejo/profil/spieler/38606
+AC Arezzo,Luca Antonini,23,Italy,Left-Back,LB,£360Th.,UC Sampdoria,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/luca-antonini/profil/spieler/6792
+Vicenza Calcio,Vlada Avramov,27,Serbia,Goalkeeper,GK,£450Th.,ACF Fiorentina,Italy,£1.08m,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/vlada-avramov/profil/spieler/22185
+Vicenza Calcio,Marco Ingrao,24,Belgium,Left-Back,LB,£270Th.,Lierse SK,Belgium,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/marco-ingrao/profil/spieler/13316
+Vicenza Calcio,Benny Carbone,35,Italy,Second Striker,SS,£135Th.,Sydney FC,Australia,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/benny-carbone/profil/spieler/3389
+Vicenza Calcio,Gerardo Grighini,19,Argentina,Defensive Midfield,DM,-,AS Cittadella,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/gerardo-grighini/profil/spieler/41030
+Vicenza Calcio,Roberto Vitiello,23,Italy,Right-Back,RB,£360Th.,Rimini FC,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/roberto-vitiello/profil/spieler/22217
+Vicenza Calcio,Sergio Marcon,35,Italy,Goalkeeper,GK,£45Th.,Calcio Portogruaro-Summaga,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/sergio-marcon/profil/spieler/16852
+Vicenza Calcio,Paolo Vanoli,33,Italy,Left-Back,LB,£270Th.,CastelnuovoSandrà,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/paolo-vanoli/profil/spieler/4290
+Vicenza Calcio,Leandro Guaita,20,Argentina,Right Winger,RW,-,Sapri Calcio 1928,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/leandro-guaita/profil/spieler/165859
+Vicenza Calcio,Roberto Roverato,21,Italy,midfield,midfield,-,UC Montecchio Maggiore,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/roberto-roverato/profil/spieler/296147
+Vicenza Calcio,Valerio Foglio,21,Italy,Left-Back,LB,£360Th.,FC Pavia 1911,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/valerio-foglio/profil/spieler/22196
+Vicenza Calcio,Damiano Moscardi,32,Italy,Right Midfield,RM,£225Th.,Delfino Pescara 1936,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/damiano-moscardi/profil/spieler/28872
+Vicenza Calcio,Andrea Fabbrini,31,Italy,Centre-Forward,CF,£630Th.,AC Cuneo 1905,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/andrea-fabbrini/profil/spieler/6050
+Vicenza Calcio,Davide Drascek,25,Italy,Defensive Midfield,DM,£90Th.,Cisco Roma,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/davide-drascek/profil/spieler/22195
+Vicenza Calcio,Paolo Cristallini,34,Italy,Attacking Midfield,AM,£90Th.,,Retired,-,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/paolo-cristallini/profil/spieler/22191
+Vicenza Calcio,Marco Zanconato,19,Italy,Goalkeeper,GK,-,,Without Club,-,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/marco-zanconato/profil/spieler/369712
+Vicenza Calcio,Igor De Mattia,20,Italy,midfield,midfield,-,,Without Club,-,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/igor-de-mattia/profil/spieler/369923
+Vicenza Calcio,Ilyas Zeytulaev,24,Uzbekistan,Left Winger,LW,£180Th.,Reggina Calcio,Italy,"End of loanMay 1, 2007",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/ilyas-zeytulaev/profil/spieler/34345
+Vicenza Calcio,Ricardo Esteves,26,Portugal,Right-Back,RB,£90Th.,Reggina Calcio,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/ricardo-esteves/profil/spieler/14247
+FC Crotone,Nicola Ferrari,22,Italy,Centre-Forward,CF,-,UC AlbinoLeffe,Italy,£495Th.,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/nicola-ferrari/profil/spieler/38646
+FC Crotone,Gennaro Scarlato,29,Italy,Centre-Back,CB,£450Th.,Spezia Calcio 1906,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/gennaro-scarlato/profil/spieler/21758
+FC Crotone,David Dei,32,Italy,Goalkeeper,GK,£45Th.,US Triestina,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/david-dei/profil/spieler/22136
+FC Crotone,Ivan Juric,30,Croatia,Defensive Midfield,DM,£180Th.,Genoa CFC,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/ivan-juric/profil/spieler/22150
+FC Crotone,Giovanni Paschetta,31,Italy,Centre-Back,CB,£90Th.,Gallipoli Calcio,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/giovanni-paschetta/profil/spieler/22121
+FC Crotone,Giampaolo Ciarciá,26,Italy,Central Midfield,CM,£90Th.,Ternana Calcio,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/giampaolo-ciarcia/profil/spieler/22134
+FC Crotone,Jeda,27,Brazil,Second Striker,SS,£540Th.,Rimini FC,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/jeda/profil/spieler/21773
+FC Crotone,Cataldo Ceravolo,20,Italy,defence,defence,-,US Pro Vercelli,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/cataldo-ceravolo/profil/spieler/550626
+FC Crotone,Benito Scardamaglia,18,Italy,midfield,midfield,-,Vigor Lamezia Calcio,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/benito-scardamaglia/profil/spieler/556479
+FC Crotone,Nello Russo,25,Italy,Centre-Forward,CF,£180Th.,Spezia Calcio 1906,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/nello-russo/profil/spieler/29596
+FC Crotone,Simone Tambone,19,Italy,attack,attack,-,,Without Club,-,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/simone-tambone/profil/spieler/376007
+FC Crotone,Antonio Scerbo,19,Italy,defence,defence,-,,Without Club,-,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/antonio-scerbo/profil/spieler/373284
+FC Crotone,Andrea Gasperini,18,Italy,midfield,midfield,-,,Without Club,-,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/andrea-gasperini/profil/spieler/387969
+FC Crotone,Raffaele Giove Laino,19,Italy,midfield,midfield,-,,Retired,-,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/raffaele-giove-laino/profil/spieler/373946
+FC Crotone,Paquito,24,Brazil,Central Midfield,CM,-,FC Chiasso,Switzerland,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/paquito/profil/spieler/19817
+FC Crotone,Abdoulay Konko,22,France,Right-Back,RB,£540Th.,Juventus FC,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/abdoulay-konko/profil/spieler/22139
+FC Crotone,Graziano Pellè,20,Italy,Centre-Forward,CF,£900Th.,US Lecce,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/graziano-pelle/profil/spieler/29594
+FC Crotone,Angelo,25,Brazil,Right-Back,RB,£450Th.,US Lecce,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/angelo/profil/spieler/32966
+AC Cesena,Marco Bernacci,22,Italy,Centre-Forward,CF,£720Th.,AC Mantova 1911,Italy,£1.35m,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/marco-bernacci/profil/spieler/24292
+AC Cesena,Angelo Rea,24,Italy,Centre-Back,CB,£45Th.,FC Messina Peloro,Italy,£450Th.,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/angelo-rea/profil/spieler/24314
+AC Cesena,Alex Foiera,20,Italy,Goalkeeper,GK,£45Th.,AC Bellaria Igea Marina,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/alex-foiera/profil/spieler/24307
+AC Cesena,Lorenzo Rossetti,26,Italy,Right Midfield,RM,£540Th.,US Triestina,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/lorenzo-rossetti/profil/spieler/24315
+AC Cesena,Emanuele Chiaretti,28,Italy,Second Striker,SS,£45Th.,US Foggia,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/emanuele-chiaretti/profil/spieler/24302
+AC Cesena,Luca Ceccarelli,23,Italy,Right-Back,RB,-,San Marino,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/luca-ceccarelli/profil/spieler/41994
+AC Cesena,Ferreira Pinto,26,Brazil,Right Winger,RW,-,Atalanta BC,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/ferreira-pinto/profil/spieler/22811
+AC Cesena,Stefano Fattori,22,Italy,Central Midfield,CM,£45Th.,FC Pavia 1911,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/stefano-fattori/profil/spieler/28760
+AC Cesena,Dario Bova,22,Italy,Centre-Back,CB,-,US Grosseto FC,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/dario-bova/profil/spieler/38645
+AC Cesena,Giovanni Morabito,27,Italy,Left-Back,LB,£90Th.,Reggina Calcio,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/giovanni-morabito/profil/spieler/6064
+AC Cesena,Mirko Valdifiori,20,Italy,Defensive Midfield,DM,-,FC Pavia 1911,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/mirko-valdifiori/profil/spieler/84903
+AC Cesena,Riccardo Casali,18,Italy,Goalkeeper,GK,-,Cagliese Calcio,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/riccardo-casali/profil/spieler/794657
+AC Cesena,Christian Jidayi,19,Italy,Right-Back,RB,-,AC Bellaria Igea Marina,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/christian-jidayi/profil/spieler/42768
+AC Cesena,Emiliano Viviano,20,Italy,Goalkeeper,GK,£270Th.,Brescia Calcio,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/emiliano-viviano/profil/spieler/24316
+AC Cesena,Maurizio Ciaramitaro,24,Italy,Central Midfield,CM,£360Th.,US Palermo,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/maurizio-ciaramitaro/profil/spieler/24303
+AC Cesena,Andrea Mengoni,22,Italy,Centre-Back,CB,-,Chievo Verona,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/andrea-mengoni/profil/spieler/38657
+US Triestina,Michele Zeoli,33,Italy,Left-Back,LB,£90Th.,Calcio Padova,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/michele-zeoli/profil/spieler/22096
+US Triestina,Grgur Rados,18,Croatia,attack,attack,-,NK Varteks Varazdin,Croatia,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/grgur-rados/profil/spieler/44243
+US Triestina,Mislav Rados,18,Croatia,midfield,midfield,-,NK Varteks Varazdin,Croatia,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/mislav-rados/profil/spieler/44242
+US Triestina,Matteo Tomei,22,Italy,Goalkeeper,GK,-,Ross County FC,Scotland,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/matteo-tomei/profil/spieler/48319
+US Triestina,Michele De Agostini,22,Italy,Left-Back,LB,-,Pro Patria Gallaratese GB,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/michele-de-agostini/profil/spieler/144125
+US Triestina,Marco De Cristofano,23,Italy,Defensive Midfield,DM,£45Th.,US Sestese Calcio,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/marco-de-cristofano/profil/spieler/38587
+US Triestina,Jonatan Binotto,31,Italy,Right Winger,RW,£180Th.,Casalecchio Calcio,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/jonatan-binotto/profil/spieler/28009
+US Triestina,Guido Gallovich,24,Italy,Right Midfield,RM,£90Th.,Birkirkara FC,Malta,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/guido-gallovich/profil/spieler/20459
+US Triestina,Mark Redshaw,22,England,Second Striker,SS,-,Los Angeles Galaxy,United States,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/mark-redshaw/profil/spieler/108740
+US Triestina,Luigi Pagliuca,26,Italy,Right Winger,RW,£45Th.,AC Cesena,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/luigi-pagliuca/profil/spieler/21998
+US Triestina,Horacio Erpen,24,Argentina,Attacking Midfield,AM,£180Th.,US Sassuolo,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/horacio-erpen/profil/spieler/28866
+US Triestina,Eder Baù,23,Italy,Right Winger,RW,£135Th.,Spezia Calcio 1906,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/eder-bau/profil/spieler/21903
+US Triestina,Michele Modolo,22,Italy,midfield,midfield,-,AC Bellaria Igea Marina,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/michele-modolo/profil/spieler/538650
+US Triestina,Antonio Barone,17,Italy,defence,defence,-,AC Bellaria Igea Marina,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/antonio-barone/profil/spieler/551227
+US Triestina,Francesco Ciullo,26,Italy,attack,attack,-,AC Pisa 1909,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/francesco-ciullo/profil/spieler/228808
+US Triestina,Fabio Di Venanzio,31,Italy,Left-Back,LB,-,Frosinone Calcio,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/fabio-di-venanzio/profil/spieler/22107
+US Triestina,Juan Landaida,29,Argentina,Centre-Back,CB,£90Th.,US Sambenedettese,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/juan-landaida/profil/spieler/28871
+US Triestina,Juanito Gómez,21,Argentina,Left Winger,LW,-,AC Bellaria Igea Marina,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/juanito-gomez/profil/spieler/38592
+US Triestina,Michael Agazzi,21,Italy,Goalkeeper,GK,£45Th.,US Sassuolo,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/michael-agazzi/profil/spieler/28862
+US Triestina,Roberto Massaro,22,Italy,Centre-Forward,CF,£90Th.,FC Pavia 1911,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/roberto-massaro/profil/spieler/5874
+US Triestina,Alessandro Tulli,24,Italy,Centre-Forward,CF,£630Th.,US Lecce,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/alessandro-tulli/profil/spieler/21962
+US Triestina,Massimo Borgobello,35,Italy,Centre-Forward,CF,£90Th.,AC Monza Brianza,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/massimo-borgobello/profil/spieler/21753
+US Triestina,Michelangelo Minieri,25,Italy,Centre-Back,CB,£360Th.,Ascoli Calcio 1898,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/michelangelo-minieri/profil/spieler/21940
+US Triestina,Dino Baggio,34,Italy,Defensive Midfield,DM,£360Th.,,Retired,-,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/dino-baggio/profil/spieler/5843
+US Triestina,Alan Aal,27,Brazil,Centre-Back,CB,-,Londrina Esporte Clube (PR),Brazil,,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/alan-aal/profil/spieler/45400
+US Triestina,Daniele Galloppa,21,Italy,Central Midfield,CM,£540Th.,AS Roma,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/daniele-galloppa/profil/spieler/22594
+US Triestina,Carlo Mammarella,24,Italy,Left-Back,LB,£113Th.,Fermana Calcio 1920,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/carlo-mammarella/profil/spieler/38595
+Rimini FC,Gianluca Di Giulio,34,Italy,Defensive Midfield,DM,£45Th.,Hellas Verona,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/gianluca-di-giulio/profil/spieler/30631
+Rimini FC,Emiliano Dei,35,Italy,Goalkeeper,GK,£45Th.,San Marino,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/emiliano-dei/profil/spieler/30629
+Rimini FC,Fabrizio Caracciolo,32,Italy,Defensive Midfield,DM,£45Th.,Salernitana Calcio 1919,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/fabrizio-caracciolo/profil/spieler/30625
+Rimini FC,Stefano Di Fiordo,26,Italy,Centre-Back,CB,£90Th.,Benevento Calcio,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/stefano-di-fiordo/profil/spieler/30630
+Rimini FC,Alessandro Mastronicola,32,Italy,Right-Back,RB,£90Th.,Calcio Padova,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/alessandro-mastronicola/profil/spieler/30644
+Rimini FC,Lorenzo Di Loreto,27,Italy,midfield,midfield,£45Th.,SPAL 1907,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/lorenzo-di-loreto/profil/spieler/30632
+Rimini FC,Andrea Rabito,26,Italy,Right Winger,RW,£135Th.,UC AlbinoLeffe,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/andrea-rabito/profil/spieler/21765
+Rimini FC,Luca D'Angelo,34,Italy,Centre-Back,CB,£45Th.,San Marino,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/luca-dangelo/profil/spieler/30636
+Rimini FC,Simone Motta,28,Italy,Second Striker,SS,£180Th.,US Pistoiese 1921,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/simone-motta/profil/spieler/22119
+Rimini FC,Alex Ambrosini,19,Italy,Centre-Forward,CF,-,Celano FC Olimpia,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/alex-ambrosini/profil/spieler/41979
+Rimini FC,Emilio Docente,22,Italy,Centre-Forward,CF,£180Th.,AC Ancona,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/emilio-docente/profil/spieler/30633
+Rimini FC,Filippo Sanchi,19,Italy,Goalkeeper,GK,-,,Without Club,-,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/filippo-sanchi/profil/spieler/371336
+Rimini FC,Thomas Manfredini,26,Italy,Centre-Back,CB,£360Th.,Atalanta BC,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/thomas-manfredini/profil/spieler/5889
+Frosinone Calcio,Bruno Maggi,23,Italy,midfield,midfield,-,AC Ancona,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/bruno-maggi/profil/spieler/43222
+Frosinone Calcio,Massimiliano Carlini,19,Italy,Central Midfield,CM,-,US Sambenedettese,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/massimiliano-carlini/profil/spieler/43206
+Frosinone Calcio,Vittorio Gargiulo,25,Italy,Centre-Back,CB,-,Real Teramo,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/vittorio-gargiulo/profil/spieler/43218
+Frosinone Calcio,Ciro Ginestra,26,Italy,Centre-Forward,CF,£90Th.,Perugia Calcio,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/ciro-ginestra/profil/spieler/21848
+Frosinone Calcio,Luigi Cipriani,26,Italy,Centre-Back,CB,-,Cavese 1919,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/luigi-cipriani/profil/spieler/103299
+Frosinone Calcio,Giovanni Bruno,26,Italy,Left-Back,LB,-,Cisco Roma,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/giovanni-bruno/profil/spieler/84569
+Frosinone Calcio,Morris Molinari,31,Italy,Centre-Back,CB,-,SS Virtus Lanciano,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/morris-molinari/profil/spieler/56914
+Frosinone Calcio,Giuseppe Morfù,28,Italy,midfield,midfield,-,Catanzaro FC,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/giuseppe-morfu/profil/spieler/268780
+Frosinone Calcio,Federico Ranieri,19,Italy,midfield,midfield,-,Calcio Portogruaro-Summaga,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/federico-ranieri/profil/spieler/358869
+Frosinone Calcio,Carlo Maria Caligiuri,23,Italy,attack,attack,-,FC Giugliano 1928,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/carlo-maria-caligiuri/profil/spieler/552346
+Frosinone Calcio,Tiziano Maggiolini,26,Italy,Left-Back,LB,-,Ternana Calcio,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/tiziano-maggiolini/profil/spieler/100740
+Genoa CFC,Diego Milito,27,Argentina,Centre-Forward,CF,£5.40m,Real Zaragoza,Spain,£4.50m,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/diego-milito/profil/spieler/22202
+Genoa CFC,Francesco Baldini,32,Italy,Centre-Back,CB,£90Th.,Perugia Calcio,Italy,Loan fee:£113Th.,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/francesco-baldini/profil/spieler/21901
+Genoa CFC,Daniele De Vezze,26,Italy,Central Midfield,CM,£360Th.,FC Messina Peloro,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/daniele-de-vezze/profil/spieler/21147
+Genoa CFC,Gianluca Lamacchi,34,Italy,Centre-Back,CB,-,Piacenza FC,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/gianluca-lamacchi/profil/spieler/22200
+Genoa CFC,Dante López,22,Paraguay,Centre-Forward,CF,-,FC Crotone,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/dante-lopez/profil/spieler/18535
+Genoa CFC,Massimo Gazzoli,31,Italy,Goalkeeper,GK,£68Th.,US Massese 1919,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/massimo-gazzoli/profil/spieler/21923
+Genoa CFC,Antonio Nocerino,21,Italy,Central Midfield,CM,£450Th.,Piacenza FC,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/antonio-nocerino/profil/spieler/22203
+Genoa CFC,Michele Tarallo,25,Italy,Centre-Forward,CF,-,Calcio Padova,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/michele-tarallo/profil/spieler/84978
+Genoa CFC,Leonel Ríos,23,Argentina,Right Midfield,RM,-,Reggina Calcio,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/leonel-rios/profil/spieler/30889
+Genoa CFC,Igor Zaniolo,33,Italy,Centre-Forward,CF,£270Th.,Cisco Roma,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/igor-zaniolo/profil/spieler/19309
+Genoa CFC,Luca Fusco,28,Italy,Centre-Back,CB,£180Th.,FC Crotone,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/luca-fusco/profil/spieler/19219
+Genoa CFC,Rivaldo González,18,Paraguay,Attacking Midfield,AM,£270Th.,US Avellino,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/rivaldo-gonzalez/profil/spieler/21851
+Genoa CFC,Federico Nieto,22,Argentina,Centre-Forward,CF,£450Th.,Hellas Verona,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/federico-nieto/profil/spieler/30858
+Genoa CFC,Michele Bacis,26,Italy,Centre-Back,CB,£270Th.,US Avellino,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/michele-bacis/profil/spieler/21143
+Genoa CFC,Marco Iovine,20,Italy,Central Midfield,CM,-,US Sambenedettese,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/marco-iovine/profil/spieler/68305
+Genoa CFC,Simone Frattoni,19,Italy,defence,defence,-,Città di Gela ,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/simone-frattoni/profil/spieler/548779
+Genoa CFC,Diego Colurcio,20,Italy,midfield,midfield,-,AS Biellese,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/diego-colurcio/profil/spieler/296710
+Genoa CFC,Daniel Panizzolo,20,Switzerland,Centre-Back,CB,-,AC Prato,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/daniel-panizzolo/profil/spieler/144118
+Genoa CFC,Mariano Stendardo,23,Italy,Centre-Back,CB,£113Th.,US Cremonese,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/mariano-stendardo/profil/spieler/24331
+Genoa CFC,Ivan Giuntoli,23,Italy,Centre-Forward,CF,£68Th.,Catanzaro FC,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/ivan-giuntoli/profil/spieler/34181
+Genoa CFC,Alessandro Grando,22,Italy,Right-Back,RB,-,Città di Gela ,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/alessandro-grando/profil/spieler/82842
+Genoa CFC,Lucas Rimoldi,26,Argentina,Central Midfield,CM,£90Th.,Frosinone Calcio,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/lucas-rimoldi/profil/spieler/22211
+Genoa CFC,Nicola Caccia,36,Italy,Centre-Forward,CF,£270Th.,,Retired,-,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/nicola-caccia/profil/spieler/21912
+Genoa CFC,Ivica Iliev,26,Serbia,Second Striker,SS,£1.80m,FC Messina Peloro,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/ivica-iliev/profil/spieler/10300
+Genoa CFC,Vincenzo Moretti,29,Italy,Left-Back,LB,£225Th.,US Avellino,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/vincenzo-moretti/profil/spieler/32100
+AC Mantova 1911,Paolo Poggi,35,Italy,Centre-Forward,CF,£90Th.,SSC Venezia,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/paolo-poggi/profil/spieler/7432
+AC Mantova 1911,Gabriele Cioffi,30,Italy,Centre-Back,CB,£90Th.,Torino FC,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/gabriele-cioffi/profil/spieler/32079
+AC Mantova 1911,Diego Pellegrini,35,Italy,Centre-Back,CB,£45Th.,Adelaide Blue Eagles,Australia,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/diego-pellegrini/profil/spieler/32120
+AC Mantova 1911,Diego País,29,Argentina,Centre-Forward,CF,-,Club Bella Vista de Bahia Blanca,Argentina,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/diego-pais/profil/spieler/195469
+AC Mantova 1911,Ivanoe Lanzara,33,Italy,Left-Back,LB,£72Th.,Salernitana Calcio 1919,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/ivanoe-lanzara/profil/spieler/32091
+AC Mantova 1911,Gennaro Volpe,25,Italy,Right Midfield,RM,£180Th.,AS Cittadella,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/gennaro-volpe/profil/spieler/32124
+AC Mantova 1911,Simone Bentivoglio,21,Italy,Central Midfield,CM,£45Th.,Juventus FC,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/simone-bentivoglio/profil/spieler/34909
+AC Mantova 1911,Mirco Gasparetto,26,Italy,Centre-Forward,CF,£900Th.,FC Empoli,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/mirco-gasparetto/profil/spieler/22111
+AC Mantova 1911,Alessio Sestu,22,Italy,Right Winger,RW,-,Treviso FBC 1993,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/alessio-sestu/profil/spieler/23367
+Brescia Calcio,Roberto Guana,25,Italy,Central Midfield,CM,£1.35m,US Palermo,Italy,£3.15m,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/roberto-guana/profil/spieler/5976
+Brescia Calcio,Gilberto Martínez,26,Costa Rica,Centre-Back,CB,£2.70m,AS Roma,Italy,Loan fee:£225Th.,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/gilberto-martinez/profil/spieler/5969
+Brescia Calcio,Moïse Brou Apanga,24,Gabon,Centre-Back,CB,-,FC 105 Libreville,Gabon,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/moise-brou-apanga/profil/spieler/81226
+Brescia Calcio,Andrea Turato,32,Italy,Right-Back,RB,£45Th.,Sangiovannese 1927,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/andrea-turato/profil/spieler/21843
+Brescia Calcio,Pietro Strada,36,Italy,Left Midfield,LM,£45Th.,AC Lumezzane,Italy,free transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/pietro-strada/profil/spieler/30660
+Brescia Calcio,Alessio FIori,18,Italy,Right Winger,RW,-,US Cremonese,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/alessio-fiori/profil/spieler/436135
+Brescia Calcio,Stefano Pezzana,19,Italy,midfield,midfield,-,Siena Primavera,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/stefano-pezzana/profil/spieler/789674
+Brescia Calcio,Alberto Stanga,17,Italy,Goalkeeper,GK,-,AC Carpenedolo,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/alberto-stanga/profil/spieler/549278
+Brescia Calcio,Giuseppe Calarco,20,Italy,midfield,midfield,-,Val Di Sangro,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/giuseppe-calarco/profil/spieler/808223
+Brescia Calcio,Roberto Orlandi,19,Italy,attack,attack,-,US Cremonese,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/roberto-orlandi/profil/spieler/339178
+Brescia Calcio,Luciano Maiolini,21,Italy,midfield,midfield,-,AC Carpenedolo,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/luciano-maiolini/profil/spieler/536809
+Brescia Calcio,Giordano Paganotto,21,Italy,defence,defence,-,US Cremonese,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/giordano-paganotto/profil/spieler/277803
+Brescia Calcio,Omar Milanetto,30,Italy,Defensive Midfield,DM,£540Th.,Genoa CFC,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/omar-milanetto/profil/spieler/7430
+Brescia Calcio,Corrado Colombo,26,Italy,Centre-Forward,CF,£900Th.,Spezia Calcio 1906,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/corrado-colombo/profil/spieler/21231
+Brescia Calcio,Michele Arcari,28,Italy,Goalkeeper,GK,-,Pro Patria Gallaratese GB,Italy,loan transfer,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/michele-arcari/profil/spieler/38578
+Brescia Calcio,Nicola Santoni,27,Italy,Goalkeeper,GK,£90Th.,Spezia Calcio 1906,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/nicola-santoni/profil/spieler/17159
+Brescia Calcio,Andrea Milani,25,Italy,Right-Back,RB,-,AS Bari,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/andrea-milani/profil/spieler/38598
+Brescia Calcio,Roberto Zaina,18,Italy,Goalkeeper,GK,-,Val Di Sangro,Italy,?,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/roberto-zaina/profil/spieler/101924
+Brescia Calcio,Luigi Di Biagio,35,Italy,Defensive Midfield,DM,£720Th.,,Without Club,-,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/luigi-di-biagio/profil/spieler/7927
+Brescia Calcio,Daniele Berretta,34,Italy,Defensive Midfield,DM,£180Th.,,Retired,-,Out,2006,s,serie-b,https://www.transfermarkt.co.uk/daniele-berretta/profil/spieler/6716
+Brescia Calcio,George Mourad,23,Syria,Centre-Forward,CF,£675Th.,IFK Göteborg,Sweden,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/george-mourad/profil/spieler/19258
+Brescia Calcio,Rok Straus,19,Slovenia,Defensive Midfield,DM,-,FC Messina Peloro,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/rok-straus/profil/spieler/41080
+Brescia Calcio,Salvatore Bruno,26,Italy,Centre-Forward,CF,£720Th.,Chievo Verona,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/salvatore-bruno/profil/spieler/7108
+Brescia Calcio,Nicola Corrent,26,Italy,Central Midfield,CM,£135Th.,Ternana Calcio,Italy,"End of loanJun 30, 2006",Out,2006,s,serie-b,https://www.transfermarkt.co.uk/nicola-corrent/profil/spieler/21813
+Bologna FC 1909,Renato Olive,35,Italy,Central Midfield,CM,£360Th.,Calcio Catania,Italy,free transfer,In,2006,w,serie-b,https://www.transfermarkt.co.uk/renato-olive/profil/spieler/5998
+Bologna FC 1909,Tomas Danilevicius,28,Lithuania,Centre-Forward,CF,£630Th.,AS Livorno,Italy,loan transfer,In,2006,w,serie-b,https://www.transfermarkt.co.uk/tomas-danilevicius/profil/spieler/4049
+Juventus FC,Davide Lanzafame,19,Italy,Centre-Forward,CF,-,Juventus Primavera,Italy,-,In,2006,w,serie-b,https://www.transfermarkt.co.uk/davide-lanzafame/profil/spieler/61539
+Juventus FC,Dario Venitucci,19,Italy,Attacking Midfield,AM,-,Juventus Primavera,Italy,-,In,2006,w,serie-b,https://www.transfermarkt.co.uk/dario-venitucci/profil/spieler/57558
+Treviso FBC 1993,Daniel Maa Boumsong,19,Cameroon,Defensive Midfield,DM,£90Th.,FC Internazionale,Italy,Loan fee:£158Th.,In,2006,w,serie-b,https://www.transfermarkt.co.uk/daniel-maa-boumsong/profil/spieler/36358
+Treviso FBC 1993,Alfonso Camorani,28,Italy,Central Midfield,CM,£270Th.,US Lecce,Italy,free transfer,In,2006,w,serie-b,https://www.transfermarkt.co.uk/alfonso-camorani/profil/spieler/6419
+Treviso FBC 1993,Martin Petras,27,Slovakia,Right-Back,RB,£720Th.,US Lecce,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/martin-petras/profil/spieler/9764
+Treviso FBC 1993,Alex Cordaz,24,Italy,Goalkeeper,GK,£180Th.,AS Pizzighettone,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/alex-cordaz/profil/spieler/16633
+Treviso FBC 1993,Stefano Dall'Acqua,25,Italy,Centre-Forward,CF,-,US Foggia,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/stefano-dallacqua/profil/spieler/23352
+UC AlbinoLeffe,Francesco Ruopolo,23,Italy,Centre-Forward,CF,£315Th.,US Triestina,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/francesco-ruopolo/profil/spieler/25325
+UC AlbinoLeffe,Gabriele Piantoni,18,Italy,Attacking Midfield,AM,-,AlbinoLeffe Primavera,Italy,-,In,2006,w,serie-b,https://www.transfermarkt.co.uk/gabriele-piantoni/profil/spieler/61256
+Delfino Pescara 1936,Giorgio La Vista,27,Italy,Central Midfield,CM,£270Th.,AS Bari,Italy,free transfer,In,2006,w,serie-b,https://www.transfermarkt.co.uk/giorgio-la-vista/profil/spieler/28839
+Delfino Pescara 1936,Nello Russo,25,Italy,Centre-Forward,CF,£180Th.,FC Crotone,Italy,loan transfer,In,2006,w,serie-b,https://www.transfermarkt.co.uk/nello-russo/profil/spieler/29596
+Delfino Pescara 1936,Ciro Polito,27,Italy,Goalkeeper,GK,£45Th.,Calcio Catania,Italy,loan transfer,In,2006,w,serie-b,https://www.transfermarkt.co.uk/ciro-polito/profil/spieler/22123
+Delfino Pescara 1936,Marco Martini,27,Italy,Centre-Forward,CF,-,Frosinone Calcio,Italy,loan transfer,In,2006,w,serie-b,https://www.transfermarkt.co.uk/marco-martini/profil/spieler/42880
+Delfino Pescara 1936,Daniele Vantaggiato,22,Italy,Centre-Forward,CF,£720Th.,FC Crotone,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/daniele-vantaggiato/profil/spieler/22155
+Delfino Pescara 1936,Nicola Mora,27,Italy,Left-Back,LB,£68Th.,AS Bari,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/nicola-mora/profil/spieler/30649
+Hellas Verona,Muhammet Akagündüz,29,Austria,Centre-Forward,CF,£1.35m,Kayserispor,Turkey,free transfer,In,2006,w,serie-b,https://www.transfermarkt.co.uk/muhammet-akagunduz/profil/spieler/6299
+Hellas Verona,Nicola Corrent,27,Italy,Central Midfield,CM,£135Th.,Ternana Calcio,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/nicola-corrent/profil/spieler/21813
+Hellas Verona,Francesco Franzese,25,Italy,Goalkeeper,GK,-,SS Juve Stabia,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/francesco-franzese/profil/spieler/84466
+Hellas Verona,William,28,Brazil,Centre-Forward,CF,£90Th.,AC Martina 1947,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/william/profil/spieler/41952
+Modena FC,Marco Rossi,19,Italy,Centre-Back,CB,£405Th.,Parma FC,Italy,loan transfer,In,2006,w,serie-b,https://www.transfermarkt.co.uk/marco-rossi/profil/spieler/33605
+Modena FC,Salvatore Bruno,27,Italy,Centre-Forward,CF,£720Th.,Chievo Verona,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/salvatore-bruno/profil/spieler/7108
+Modena FC,Francesco Virdis,22,Italy,Centre-Forward,CF,£45Th.,UC Sampdoria,Italy,loan transfer,In,2006,w,serie-b,https://www.transfermarkt.co.uk/francesco-virdis/profil/spieler/42814
+Modena FC,Francesco Stanco,19,Italy,Centre-Forward,CF,-,US Grosseto FC,Italy,"End of loanDec 1, 2006",In,2006,w,serie-b,https://www.transfermarkt.co.uk/francesco-stanco/profil/spieler/57124
+SSC Napoli,Erminio Rullo,23,Italy,Left-Back,LB,£3.15m,US Lecce,Italy,£630Th.,In,2006,w,serie-b,https://www.transfermarkt.co.uk/erminio-rullo/profil/spieler/6444
+SSC Napoli,Antonio Saviano,22,Italy,Goalkeeper,GK,£135Th.,Reggina Calcio,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/antonio-saviano/profil/spieler/38667
+Piacenza FC,Houssine Kharja,24,Morocco,Central Midfield,CM,£720Th.,Ternana Calcio,Italy,free transfer,In,2006,w,serie-b,https://www.transfermarkt.co.uk/houssine-kharja/profil/spieler/21822
+Piacenza FC,Andrea Lazzari,22,Italy,Central Midfield,CM,£1.80m,Atalanta BC,Italy,loan transfer,In,2006,w,serie-b,https://www.transfermarkt.co.uk/andrea-lazzari/profil/spieler/19442
+Piacenza FC,Francesco Nieto,21,Italy,attack,attack,£90Th.,Calcio Lecco 1912,Italy,"End of loanDec 31, 2006",In,2006,w,serie-b,https://www.transfermarkt.co.uk/francesco-nieto/profil/spieler/29616
+US Lecce,Andrea Zanchetta,31,Italy,Central Midfield,CM,£720Th.,Chievo Verona,Italy,free transfer,In,2006,w,serie-b,https://www.transfermarkt.co.uk/andrea-zanchetta/profil/spieler/7098
+US Lecce,Simone Tiribocchi,28,Italy,Centre-Forward,CF,£3.15m,Chievo Verona,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/simone-tiribocchi/profil/spieler/21700
+US Lecce,Nicola Pavarini,32,Italy,Goalkeeper,GK,£540Th.,Robur Siena,Italy,loan transfer,In,2006,w,serie-b,https://www.transfermarkt.co.uk/nicola-pavarini/profil/spieler/28027
+US Lecce,Blazej Vascak,23,Slovakia,Attacking Midfield,AM,£180Th.,Treviso FBC 1993,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/blazej-vascak/profil/spieler/34434
+US Lecce,Marcello Cottafava,29,Italy,Centre-Back,CB,£360Th.,Treviso FBC 1993,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/marcello-cottafava/profil/spieler/23351
+US Lecce,Alberto Giuliatto,23,Italy,Left-Back,LB,£90Th.,Treviso FBC 1993,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/alberto-giuliatto/profil/spieler/35707
+US Lecce,Italo Mattioli,21,Italy,Centre-Forward,CF,£270Th.,Salernitana Calcio 1919,Italy,"End of loanDec 31, 2006",In,2006,w,serie-b,https://www.transfermarkt.co.uk/italo-mattioli/profil/spieler/32987
+AS Bari,Massimo Ganci,25,Italy,Centre-Forward,CF,£630Th.,Treviso FBC 1993,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/massimo-ganci/profil/spieler/28019
+AS Bari,Andrea Carozza,21,Italy,midfield,midfield,£45Th.,Delfino Pescara 1936,Italy,loan transfer,In,2006,w,serie-b,https://www.transfermarkt.co.uk/andrea-carozza/profil/spieler/22269
+AS Bari,Alessandro Sgrigna,26,Italy,Second Striker,SS,£90Th.,Vicenza Calcio,Italy,loan transfer,In,2006,w,serie-b,https://www.transfermarkt.co.uk/alessandro-sgrigna/profil/spieler/38642
+AS Bari,Mirko Eramo,17,Italy,Central Midfield,CM,-,Bari Primavera,Italy,-,In,2006,w,serie-b,https://www.transfermarkt.co.uk/mirko-eramo/profil/spieler/61783
+AS Bari,Giacinto Allegrini,17,Italy,Centre-Back,CB,-,Bari Primavera,Italy,-,In,2006,w,serie-b,https://www.transfermarkt.co.uk/giacinto-allegrini/profil/spieler/61506
+AS Bari,Luigi Rana,20,Italy,Centre-Forward,CF,-,Gallipoli Calcio,Italy,"End of loanDec 1, 2006",In,2006,w,serie-b,https://www.transfermarkt.co.uk/luigi-rana/profil/spieler/137114
+Spezia Calcio 1906,Guly,25,Brazil,Attacking Midfield,AM,£360Th.,ACF Fiorentina,Italy,Loan fee:£68Th.,In,2006,w,serie-b,https://www.transfermarkt.co.uk/guly/profil/spieler/22801
+Spezia Calcio 1906,Alberto Quadri,23,Italy,Defensive Midfield,DM,£180Th.,SS Lazio,Italy,loan transfer,In,2006,w,serie-b,https://www.transfermarkt.co.uk/alberto-quadri/profil/spieler/40482
+Spezia Calcio 1906,Tomás Guzmán,24,Paraguay,Attacking Midfield,AM,£450Th.,Juventus FC,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/tomas-guzman/profil/spieler/19228
+Spezia Calcio 1906,Luca Mondini,36,Italy,Goalkeeper,GK,£45Th.,US Cremonese,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/luca-mondini/profil/spieler/30646
+Spezia Calcio 1906,Davide Addona,23,Italy,Left-Back,LB,£45Th.,AC Pro Sesto,Italy,"End of loanDec 31, 2006",In,2006,w,serie-b,https://www.transfermarkt.co.uk/davide-addona/profil/spieler/42115
+AC Arezzo,Damián Lanza,24,Ecuador,Goalkeeper,GK,£450Th.,SD Aucas,Ecuador,free transfer,In,2006,w,serie-b,https://www.transfermarkt.co.uk/damian-lanza/profil/spieler/37375
+AC Arezzo,Massimo Marconato,28,Italy,Goalkeeper,GK,£135Th.,FC Pro Vasto,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/massimo-marconato/profil/spieler/44034
+AC Arezzo,Corrado Grabbi,31,Italy,Centre-Forward,CF,£1.80m,Genoa CFC,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/corrado-grabbi/profil/spieler/3704
+AC Arezzo,Andrea Sussi,33,Italy,Left-Back,LB,£270Th.,Perugia Calcio,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/andrea-sussi/profil/spieler/12565
+AC Arezzo,Allan Baclet,20,France,Centre-Forward,CF,£113Th.,SS Juve Stabia,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/allan-baclet/profil/spieler/103001
+AC Arezzo,Matteo Cavagna,22,Italy,Left Winger,LW,-,Foligno Calcio,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/matteo-cavagna/profil/spieler/139450
+AC Arezzo,Romulo Togni,24,Brazil,Defensive Midfield,DM,-,ASD Manfredonia Calcio,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/romulo-togni/profil/spieler/103004
+AC Arezzo,Mattia Menichini,25,Italy,Centre-Forward,CF,£45Th.,AS Cittadella,Italy,"End of loanDec 31, 2006",In,2006,w,serie-b,https://www.transfermarkt.co.uk/mattia-menichini/profil/spieler/41031
+AC Arezzo,Emanuele D'Anna,24,Italy,Right Midfield,RM,-,SS Juve Stabia,Italy,"End of loanJan 22, 2007",In,2006,w,serie-b,https://www.transfermarkt.co.uk/emanuele-danna/profil/spieler/56605
+Vicenza Calcio,Salvatore Foti,18,Italy,Centre-Forward,CF,£450Th.,UC Sampdoria,Italy,loan transfer,In,2006,w,serie-b,https://www.transfermarkt.co.uk/salvatore-foti/profil/spieler/38559
+Vicenza Calcio,Mirko Cudini,33,Italy,Centre-Back,CB,£180Th.,Ascoli Calcio 1898,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/mirko-cudini/profil/spieler/8551
+Vicenza Calcio,Ilyas Zeytulaev,24,Uzbekistan,Left Winger,LW,£180Th.,Reggina Calcio,Italy,loan transfer,In,2006,w,serie-b,https://www.transfermarkt.co.uk/ilyas-zeytulaev/profil/spieler/34345
+FC Crotone,Marco Zamboni,29,Italy,Centre-Back,CB,£495Th.,Spezia Calcio 1906,Italy,free transfer,In,2006,w,serie-b,https://www.transfermarkt.co.uk/marco-zamboni/profil/spieler/6036
+FC Crotone,Vinicio Espinal,24,Dominican Republic,Right Midfield,RM,£45Th.,AC Monza Brianza,Italy,free transfer,In,2006,w,serie-b,https://www.transfermarkt.co.uk/vinicio-espinal/profil/spieler/22239
+FC Crotone,Giovanni Morabito,28,Italy,Left-Back,LB,£90Th.,Reggina Calcio,Italy,loan transfer,In,2006,w,serie-b,https://www.transfermarkt.co.uk/giovanni-morabito/profil/spieler/6064
+FC Crotone,Angelo Pagotto,33,Italy,Goalkeeper,GK,£180Th.,US Grosseto FC,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/angelo-pagotto/profil/spieler/23282
+FC Crotone,Davide Dionigi,32,Italy,Centre-Forward,CF,£720Th.,Spezia Calcio 1906,Italy,loan transfer,In,2006,w,serie-b,https://www.transfermarkt.co.uk/davide-dionigi/profil/spieler/28015
+FC Crotone,Eder Baù,24,Italy,Right Winger,RW,£180Th.,Spezia Calcio 1906,Italy,loan transfer,In,2006,w,serie-b,https://www.transfermarkt.co.uk/eder-bau/profil/spieler/21903
+FC Crotone,Nello Russo,25,Italy,Centre-Forward,CF,£180Th.,Spezia Calcio 1906,Italy,"End of loanDec 31, 2006",In,2006,w,serie-b,https://www.transfermarkt.co.uk/nello-russo/profil/spieler/29596
+AC Cesena,Maurizio Anastasi,29,Italy,Defensive Midfield,DM,£180Th.,Calcio Catania,Italy,free transfer,In,2006,w,serie-b,https://www.transfermarkt.co.uk/maurizio-anastasi/profil/spieler/22098
+AC Cesena,Umberto Del Core,27,Italy,Centre-Forward,CF,£360Th.,Calcio Catania,Italy,loan transfer,In,2006,w,serie-b,https://www.transfermarkt.co.uk/umberto-del-core/profil/spieler/23195
+AC Cesena,Ciro Danucci,23,Italy,Defensive Midfield,DM,£90Th.,Taranto FC 1927,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/ciro-danucci/profil/spieler/28834
+AC Cesena,Alessandro Pellicori,25,Italy,Centre-Forward,CF,£45Th.,Piacenza FC,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/alessandro-pellicori/profil/spieler/39682
+AC Cesena,Marco Arrigoni,18,Italy,Centre-Back,CB,-,Cesena Primavera,Italy,-,In,2006,w,serie-b,https://www.transfermarkt.co.uk/marco-arrigoni/profil/spieler/169241
+AC Cesena,Nicola Ravaglia,18,Italy,Goalkeeper,GK,£45Th.,Cesena Primavera,Italy,-,In,2006,w,serie-b,https://www.transfermarkt.co.uk/nicola-ravaglia/profil/spieler/42796
+AC Cesena,Ricardo Villar,18,Argentina,Attacking Midfield,AM,£45Th.,Cesena Primavera,Italy,-,In,2006,w,serie-b,https://www.transfermarkt.co.uk/ricardo-villar/profil/spieler/42813
+US Triestina,Andrea Peana,20,Italy,Centre-Back,CB,£45Th.,Cagliari Calcio,Italy,free transfer,In,2006,w,serie-b,https://www.transfermarkt.co.uk/andrea-peana/profil/spieler/35731
+US Triestina,Luigi Della Rocca,22,Italy,Centre-Forward,CF,£113Th.,Bologna FC 1909,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/luigi-della-rocca/profil/spieler/6009
+US Triestina,Andrea Cossu,22,Nigeria,Defensive Midfield,DM,-,SSC Venezia,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/andrea-cossu/profil/spieler/102402
+US Triestina,Juan Cerón,25,Uruguay,Defensive Midfield,DM,-,Rampla Juniors FC,Uruguay,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/juan-ceron/profil/spieler/139431
+US Triestina,Mattia Marchesetti,23,Italy,Left Winger,LW,£360Th.,Chievo Verona,Italy,loan transfer,In,2006,w,serie-b,https://www.transfermarkt.co.uk/mattia-marchesetti/profil/spieler/21691
+US Triestina,Ettore Marchi,21,Italy,Centre-Forward,CF,-,AS Gubbio 1910,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/ettore-marchi/profil/spieler/140084
+Rimini FC,Mirko Palazzi,19,San Marino,Left-Back,LB,-,US Castelnuovo Garfagnana,Italy,"End of loanJan 1, 2007",In,2006,w,serie-b,https://www.transfermarkt.co.uk/mirko-palazzi/profil/spieler/44199
+Frosinone Calcio,Salvatore Bocchetti,20,Italy,Centre-Back,CB,£45Th.,Ascoli Calcio 1898,Italy,£1.71m,In,2006,w,serie-b,https://www.transfermarkt.co.uk/salvatore-bocchetti/profil/spieler/42678
+Frosinone Calcio,Stefano Argilli,33,Italy,Right-Back,RB,£270Th.,AS Livorno,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/stefano-argilli/profil/spieler/15333
+Frosinone Calcio,Zlatko Dedic,22,Slovenia,Centre-Forward,CF,£360Th.,Parma FC,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/zlatko-dedic/profil/spieler/28835
+Frosinone Calcio,Guido Di Deo,25,Italy,Defensive Midfield,DM,£180Th.,Ternana Calcio,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/guido-di-deo/profil/spieler/29609
+Genoa CFC,Marco Di Vaio,30,Italy,Centre-Forward,CF,£4.05m,AS Monaco,France,£1.80m,In,2006,w,serie-b,https://www.transfermarkt.co.uk/marco-di-vaio/profil/spieler/4170
+Genoa CFC,Julio de León,27,Honduras,Attacking Midfield,AM,£135Th.,Reggina Calcio,Italy,free transfer,In,2006,w,serie-b,https://www.transfermarkt.co.uk/julio-de-leon/profil/spieler/6074
+Genoa CFC,Andrea Masiello,20,Italy,Centre-Back,CB,£45Th.,Robur Siena,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/andrea-masiello/profil/spieler/34198
+Genoa CFC,Filippo Carobbio,27,Italy,Central Midfield,CM,£405Th.,Reggina Calcio,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/filippo-carobbio/profil/spieler/22235
+Genoa CFC,Mirco Gasparetto,26,Italy,Centre-Forward,CF,£900Th.,FC Empoli,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/mirco-gasparetto/profil/spieler/22111
+Genoa CFC,Francesco Galeoto,34,Italy,Right-Back,RB,-,AC Arezzo,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/francesco-galeoto/profil/spieler/23357
+Genoa CFC,Leonel Ríos,24,Argentina,Right Midfield,RM,-,Reggina Calcio,Italy,"End of loanJan 21, 2007",In,2006,w,serie-b,https://www.transfermarkt.co.uk/leonel-rios/profil/spieler/30889
+Genoa CFC,Lucas Rimoldi,26,Argentina,Central Midfield,CM,£90Th.,Frosinone Calcio,Italy,"End of loanDec 1, 2006",In,2006,w,serie-b,https://www.transfermarkt.co.uk/lucas-rimoldi/profil/spieler/22211
+AC Mantova 1911,Denis Godeas,31,Italy,Centre-Forward,CF,£720Th.,Chievo Verona,Italy,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/denis-godeas/profil/spieler/21926
+Brescia Calcio,Francisco Lima,35,Brazil,Defensive Midfield,DM,£1.80m,Dinamo Moscow,Russia,free transfer,In,2006,w,serie-b,https://www.transfermarkt.co.uk/francisco-lima/profil/spieler/5953
+Brescia Calcio,Cédric Roussel,29,Belgium,Centre-Forward,CF,£720Th.,SV Zulte Waregem,Belgium,free transfer,In,2006,w,serie-b,https://www.transfermarkt.co.uk/cedric-roussel/profil/spieler/10431
+Brescia Calcio,Alejandro Delorte,28,Argentina,Centre-Forward,CF,-,CA Peñarol,Uruguay,?,In,2006,w,serie-b,https://www.transfermarkt.co.uk/alejandro-delorte/profil/spieler/45399
+Bologna FC 1909,Luigi Della Rocca,22,Italy,Centre-Forward,CF,£113Th.,US Triestina,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/luigi-della-rocca/profil/spieler/6009
+Bologna FC 1909,Alessandro Gottardi,19,Italy,defence,defence,-,1.FC Doppeltest,Germany,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/alessandro-gottardi/profil/spieler/102049
+Bologna FC 1909,Michael Vincenzi,19,Italy,midfield,midfield,-,Rovigo Calcio,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/michael-vincenzi/profil/spieler/222681
+Bologna FC 1909,Vincenzo Pellecchia,21,Italy,attack,attack,-,FC Empoli,Italy,"End of loanDec 31, 2006",Out,2006,w,serie-b,https://www.transfermarkt.co.uk/vincenzo-pellecchia/profil/spieler/29618
+Juventus FC,Tomás Guzmán,24,Paraguay,Attacking Midfield,AM,£450Th.,Spezia Calcio 1906,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/tomas-guzman/profil/spieler/19228
+Treviso FBC 1993,Massimo Ganci,25,Italy,Centre-Forward,CF,£630Th.,AS Bari,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/massimo-ganci/profil/spieler/28019
+Treviso FBC 1993,Blazej Vascak,23,Slovakia,Attacking Midfield,AM,£180Th.,US Lecce,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/blazej-vascak/profil/spieler/34434
+Treviso FBC 1993,Marcello Cottafava,29,Italy,Centre-Back,CB,£360Th.,US Lecce,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/marcello-cottafava/profil/spieler/23351
+Treviso FBC 1993,Alberto Giuliatto,23,Italy,Left-Back,LB,£90Th.,US Lecce,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/alberto-giuliatto/profil/spieler/35707
+Treviso FBC 1993,Daniel Baldi,25,Uruguay,Centre-Forward,CF,-,Real Teramo,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/daniel-baldi/profil/spieler/44808
+Treviso FBC 1993,Stefano Dall'Acqua,25,Italy,Centre-Forward,CF,-,Novara Calcio 1908,Italy,loan transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/stefano-dallacqua/profil/spieler/23352
+Treviso FBC 1993,Walter Baseggio,28,Belgium,Central Midfield,CM,£1.35m,RSC Anderlecht,Belgium,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/walter-baseggio/profil/spieler/9590
+Treviso FBC 1993,Francesco Mignogna,23,Italy,Left Winger,LW,£45Th.,FC Pro Vasto,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/francesco-mignogna/profil/spieler/41718
+UC AlbinoLeffe,Massimiliano Pesenti,19,Italy,Centre-Forward,CF,-,AC Prato,Italy,loan transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/massimiliano-pesenti/profil/spieler/101919
+UC AlbinoLeffe,Achille Coser,24,Italy,Goalkeeper,GK,£68Th.,US Pergocrema 1932,Italy,loan transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/achille-coser/profil/spieler/23190
+Delfino Pescara 1936,Adolfo Daniele Speranza,27,Italy,Central Midfield,CM,£135Th.,AS Lucchese Libertas,Italy,free transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/adolfo-daniele-speranza/profil/spieler/22321
+Delfino Pescara 1936,Damián Giménez,24,Argentina,Left-Back,LB,£270Th.,Nueva Chicago,Argentina,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/damian-gimenez/profil/spieler/42859
+Delfino Pescara 1936,Andrea Carozza,21,Italy,midfield,midfield,£45Th.,AS Bari,Italy,loan transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/andrea-carozza/profil/spieler/22269
+Hellas Verona,Vincenzo Italiano,29,Italy,Central Midfield,CM,£630Th.,Chievo Verona,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/vincenzo-italiano/profil/spieler/21865
+Hellas Verona,Jess Kedwell Vanstrattan,24,Australia,Goalkeeper,GK,£135Th.,AC Ancona,Italy,loan transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/jess-kedwell-vanstrattan/profil/spieler/21984
+Hellas Verona,Simon Laner,22,Italy,Central Midfield,CM,-,Unione Sanremo,Italy,loan transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/simon-laner/profil/spieler/44336
+Hellas Verona,Nicola Iachemet,19,Italy,Defensive Midfield,DM,-,AC Carpenedolo,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/nicola-iachemet/profil/spieler/44335
+Hellas Verona,Martino Melis,33,Italy,Left Winger,LW,£45Th.,US Grosseto FC,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/martino-melis/profil/spieler/21868
+Hellas Verona,Marco Mancinelli,24,Italy,defence,defence,£72Th.,AC Ancona,Italy,loan transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/marco-mancinelli/profil/spieler/21997
+Hellas Verona,Salif Dianda,19,Burkina Faso,Right Midfield,RM,-,FC Lugano,Switzerland,loan transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/salif-dianda/profil/spieler/84544
+Hellas Verona,Salvatore Ricca,22,Italy,Centre-Back,CB,-,Ternana Calcio,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/salvatore-ricca/profil/spieler/44295
+Hellas Verona,Giovanni Foderaro,22,Italy,Centre-Forward,CF,-,AS Biellese,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/giovanni-foderaro/profil/spieler/44289
+Hellas Verona,Gianluca Di Giulio,34,Italy,Defensive Midfield,DM,£45Th.,Gallipoli Calcio,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/gianluca-di-giulio/profil/spieler/30631
+Modena FC,Francesco Stanco,19,Italy,Centre-Forward,CF,-,Boca San Lazzaro,Italy,loan transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/francesco-stanco/profil/spieler/57124
+Modena FC,Armando Perna,25,Italy,Centre-Back,CB,£450Th.,Parma FC,Italy,loan transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/armando-perna/profil/spieler/21188
+Modena FC,Michele Troiano,21,Italy,Defensive Midfield,DM,£180Th.,Chievo Verona,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/michele-troiano/profil/spieler/28849
+SSC Napoli,Gerardo Schettino,22,Italy,midfield,midfield,-,FC Pro Vasto,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/gerardo-schettino/profil/spieler/168561
+SSC Napoli,Cataldo Montesanto,29,Italy,Defensive Midfield,DM,-,AC Monza Brianza,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/cataldo-montesanto/profil/spieler/30648
+Piacenza FC,Alessandro Pellicori,25,Italy,Centre-Forward,CF,£45Th.,AC Cesena,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/alessandro-pellicori/profil/spieler/39682
+Piacenza FC,Ilario Ondei,21,Italy,Left-Back,LB,£45Th.,Carrarese Calcio 1908,Italy,loan transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/ilario-ondei/profil/spieler/41985
+Piacenza FC,Francesco Nieto,21,Italy,attack,attack,£90Th.,FCD Bacigalupo Vasto Marina,Italy,loan transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/francesco-nieto/profil/spieler/29616
+US Lecce,Erminio Rullo,23,Italy,Left-Back,LB,£3.15m,SSC Napoli,Italy,£630Th.,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/erminio-rullo/profil/spieler/6444
+US Lecce,Hemza Mihoubi,20,Algeria,Left-Back,LB,£630Th.,RSC Charleroi,Belgium,loan transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/hemza-mihoubi/profil/spieler/38380
+US Lecce,Alfonso Camorani,28,Italy,Central Midfield,CM,£270Th.,Treviso FBC 1993,Italy,free transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/alfonso-camorani/profil/spieler/6419
+US Lecce,Francesco Benussi,25,Italy,Goalkeeper,GK,£270Th.,Robur Siena,Italy,loan transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/francesco-benussi/profil/spieler/21829
+US Lecce,Guillermo Giacomazzi,29,Uruguay,Defensive Midfield,DM,£2.25m,US Palermo,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/guillermo-giacomazzi/profil/spieler/6428
+US Lecce,Martin Petras,27,Slovakia,Right-Back,RB,£720Th.,Treviso FBC 1993,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/martin-petras/profil/spieler/9764
+US Lecce,Giuseppe Cozzolino,21,Italy,Centre-Forward,CF,£720Th.,Chievo Verona,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/giuseppe-cozzolino/profil/spieler/32963
+US Lecce,Italo Mattioli,21,Italy,Centre-Forward,CF,£270Th.,Taranto FC 1927,Italy,loan transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/italo-mattioli/profil/spieler/32987
+AS Bari,Giorgio La Vista,27,Italy,Central Midfield,CM,£270Th.,Delfino Pescara 1936,Italy,free transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/giorgio-la-vista/profil/spieler/28839
+AS Bari,Pasquale Berardi,23,Italy,Central Midfield,CM,£270Th.,US Ivrea Calcio,Italy,loan transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/pasquale-berardi/profil/spieler/22146
+AS Bari,Alessandro Gazzi,23,Italy,Defensive Midfield,DM,£225Th.,Reggina Calcio,Italy,loan transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/alessandro-gazzi/profil/spieler/28827
+AS Bari,Luigi Rana,20,Italy,Centre-Forward,CF,-,Valenzana Mado SSD,Italy,loan transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/luigi-rana/profil/spieler/137114
+AS Bari,Marco Piccinni,19,Italy,Central Midfield,CM,-,FC Pro Vasto,Italy,loan transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/marco-piccinni/profil/spieler/137110
+AS Bari,Nicola Mora,27,Italy,Left-Back,LB,£68Th.,Delfino Pescara 1936,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/nicola-mora/profil/spieler/30649
+Spezia Calcio 1906,Marco Zamboni,29,Italy,Centre-Back,CB,£495Th.,FC Crotone,Italy,free transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/marco-zamboni/profil/spieler/6036
+Spezia Calcio 1906,Davide Dionigi,32,Italy,Centre-Forward,CF,£720Th.,FC Crotone,Italy,loan transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/davide-dionigi/profil/spieler/28015
+Spezia Calcio 1906,Eder Baù,24,Italy,Right Winger,RW,£180Th.,FC Crotone,Italy,loan transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/eder-bau/profil/spieler/21903
+Spezia Calcio 1906,Ivano Rotoli,34,Italy,Goalkeeper,GK,£45Th.,AC Monza Brianza,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/ivano-rotoli/profil/spieler/42122
+Spezia Calcio 1906,Daniel Maa Boumsong,19,Cameroon,Defensive Midfield,DM,£90Th.,FC Internazionale,Italy,"End of loanDec 1, 2006",Out,2006,w,serie-b,https://www.transfermarkt.co.uk/daniel-maa-boumsong/profil/spieler/36358
+Spezia Calcio 1906,Nello Russo,25,Italy,Centre-Forward,CF,£180Th.,FC Crotone,Italy,"End of loanDec 31, 2006",Out,2006,w,serie-b,https://www.transfermarkt.co.uk/nello-russo/profil/spieler/29596
+AC Arezzo,Stefano Lombardi,30,Italy,Centre-Back,CB,£45Th.,Ascoli Calcio 1898,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/stefano-lombardi/profil/spieler/15462
+AC Arezzo,Emanuele D'Anna,24,Italy,Right Midfield,RM,-,AC Pisa 1909,Italy,loan transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/emanuele-danna/profil/spieler/56605
+AC Arezzo,Mattia Menichini,25,Italy,Centre-Forward,CF,£45Th.,Sangiovannese 1927,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/mattia-menichini/profil/spieler/41031
+AC Arezzo,Alessandro Simonetta,20,Italy,Left Winger,LW,£68Th.,US Sambenedettese,Italy,loan transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/alessandro-simonetta/profil/spieler/38603
+AC Arezzo,Francesco Galeoto,34,Italy,Right-Back,RB,-,Genoa CFC,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/francesco-galeoto/profil/spieler/23357
+AC Arezzo,Massimo Marconato,28,Italy,Goalkeeper,GK,£135Th.,ASD Manfredonia Calcio,Italy,loan transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/massimo-marconato/profil/spieler/44034
+AC Arezzo,Nicola Beati,23,Italy,Defensive Midfield,DM,£1.80m,FC Internazionale,Italy,"End of loanDec 1, 2006",Out,2006,w,serie-b,https://www.transfermarkt.co.uk/nicola-beati/profil/spieler/5790
+Vicenza Calcio,Leandro Vitiello,21,Italy,Defensive Midfield,DM,-,US Cremonese,Italy,free transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/leandro-vitiello/profil/spieler/57473
+Vicenza Calcio,Marco Ingrao,24,Belgium,Left-Back,LB,£270Th.,Lierse SK,Belgium,free transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/marco-ingrao/profil/spieler/13316
+Vicenza Calcio,Trevor Trevisan,23,Italy,Centre-Back,CB,£68Th.,AC Pisa 1909,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/trevor-trevisan/profil/spieler/38641
+Vicenza Calcio,Alessandro Turchetta,24,Italy,midfield,midfield,£135Th.,San Marino,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/alessandro-turchetta/profil/spieler/38643
+Vicenza Calcio,Alessandro Sgrigna,26,Italy,Second Striker,SS,£90Th.,AS Bari,Italy,loan transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/alessandro-sgrigna/profil/spieler/38642
+Vicenza Calcio,Stefano Pietribiasi,21,Italy,Centre-Forward,CF,-,US Ivrea Calcio,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/stefano-pietribiasi/profil/spieler/99543
+FC Crotone,Jamal Alioui,24,Morocco,Right-Back,RB,£585Th.,FC Sion,Switzerland,free transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/jamal-alioui/profil/spieler/8190
+FC Crotone,Nello Russo,25,Italy,Centre-Forward,CF,£180Th.,Delfino Pescara 1936,Italy,loan transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/nello-russo/profil/spieler/29596
+FC Crotone,Daniele Vantaggiato,22,Italy,Centre-Forward,CF,£720Th.,Delfino Pescara 1936,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/daniele-vantaggiato/profil/spieler/22155
+FC Crotone,Simone Fumasoli,22,Switzerland,midfield,midfield,-,AS Pizzighettone,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/simone-fumasoli/profil/spieler/44111
+FC Crotone,Andrea Gentile,26,Italy,Central Midfield,CM,£540Th.,FC Messina Peloro,Italy,"End of loanDec 1, 2006",Out,2006,w,serie-b,https://www.transfermarkt.co.uk/andrea-gentile/profil/spieler/19220
+FC Crotone,Daniele Padelli,21,Italy,Goalkeeper,GK,£45Th.,UC Sampdoria,Italy,"End of loanDec 1, 2006",Out,2006,w,serie-b,https://www.transfermarkt.co.uk/daniele-padelli/profil/spieler/27807
+FC Crotone,Gianvito Plasmati,23,Italy,Centre-Forward,CF,-,Calcio Catania,Italy,"End of loanDec 31, 2006",Out,2006,w,serie-b,https://www.transfermarkt.co.uk/gianvito-plasmati/profil/spieler/44116
+AC Cesena,Manolo Pestrin,28,Italy,Defensive Midfield,DM,£135Th.,FC Messina Peloro,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/manolo-pestrin/profil/spieler/24312
+AC Cesena,Francesco Ferrini,21,Italy,Right Midfield,RM,£45Th.,Perugia Calcio,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/francesco-ferrini/profil/spieler/38656
+AC Cesena,Luiz Sacilotto,23,Brazil,Central Midfield,CM,£225Th.,SS Virtus Lanciano,Italy,loan transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/luiz-sacilotto/profil/spieler/40712
+AC Cesena,Francesco Virdis,22,Italy,Centre-Forward,CF,£45Th.,UC Sampdoria,Italy,"End of loanJan 30, 2007",Out,2006,w,serie-b,https://www.transfermarkt.co.uk/francesco-virdis/profil/spieler/42814
+AC Cesena,Andrea Lazzari,21,Italy,Central Midfield,CM,£1.80m,Atalanta BC,Italy,"End of loanDec 1, 2006",Out,2006,w,serie-b,https://www.transfermarkt.co.uk/andrea-lazzari/profil/spieler/19442
+US Triestina,Francesco Ruopolo,23,Italy,Centre-Forward,CF,£315Th.,UC AlbinoLeffe,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/francesco-ruopolo/profil/spieler/25325
+US Triestina,Davide Marchini,25,Italy,Right Midfield,RM,£45Th.,Cagliari Calcio,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/davide-marchini/profil/spieler/38596
+US Triestina,Boris Milic,18,Bosnia-Herzegovina,midfield,midfield,-,NK Jadran Porec,Croatia,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/boris-milic/profil/spieler/48370
+US Triestina,Karim Azizou,21,Morocco,Right-Back,RB,£45Th.,US Cremonese,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/karim-azizou/profil/spieler/38580
+US Triestina,Ettore Marchi,21,Italy,Centre-Forward,CF,-,AS Gubbio 1910,Italy,loan transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/ettore-marchi/profil/spieler/140084
+Rimini FC,Mirko Palazzi,19,San Marino,Left-Back,LB,-,AC Bellaria Igea Marina,Italy,loan transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/mirko-palazzi/profil/spieler/44199
+Frosinone Calcio,Marco Martini,27,Italy,Centre-Forward,CF,-,Delfino Pescara 1936,Italy,loan transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/marco-martini/profil/spieler/42880
+Frosinone Calcio,Salvatore Mastronunzio,27,Italy,Centre-Forward,CF,-,US Foggia,Italy,loan transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/salvatore-mastronunzio/profil/spieler/43224
+Frosinone Calcio,Stefano Bellè,30,Italy,Left Winger,LW,£54Th.,Gallipoli Calcio,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/stefano-belle/profil/spieler/22266
+Frosinone Calcio,Paolo Seppani,20,Italy,Centre-Back,CB,-,AS Roma,Italy,"End of loanJan 1, 2007",Out,2006,w,serie-b,https://www.transfermarkt.co.uk/paolo-seppani/profil/spieler/43230
+Frosinone Calcio,Lucas Rimoldi,26,Argentina,Central Midfield,CM,£90Th.,Genoa CFC,Italy,"End of loanDec 1, 2006",Out,2006,w,serie-b,https://www.transfermarkt.co.uk/lucas-rimoldi/profil/spieler/22211
+Genoa CFC,Diogo Tavares,19,Portugal,Centre-Forward,CF,-,AC Monza Brianza,Italy,Loan fee:£68Th.,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/diogo-tavares/profil/spieler/35358
+Genoa CFC,Leonel Ríos,24,Argentina,Right Midfield,RM,-,Club Atlético Rosario Central,Argentina,free transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/leonel-rios/profil/spieler/30889
+Genoa CFC,Salvatore Aurelio,20,Italy,Left Winger,LW,£45Th.,AS Lucchese Libertas,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/salvatore-aurelio/profil/spieler/38579
+Genoa CFC,Corrado Grabbi,31,Italy,Centre-Forward,CF,£1.80m,AC Arezzo,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/corrado-grabbi/profil/spieler/3704
+Genoa CFC,Ilyas Zeytulaev,24,Uzbekistan,Left Winger,LW,£180Th.,Reggina Calcio,Italy,"End of loanDec 1, 2006",Out,2006,w,serie-b,https://www.transfermarkt.co.uk/ilyas-zeytulaev/profil/spieler/34345
+AC Mantova 1911,Stefano Mondini,19,Italy,Central Midfield,CM,-,US Pistoiese 1921,Italy,loan transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/stefano-mondini/profil/spieler/34914
+Brescia Calcio,Ernesto Luca Fiumicelli,21,Italy,attack,attack,£180Th.,Varese 1910,Italy,free transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/ernesto-luca-fiumicelli/profil/spieler/43094
+Brescia Calcio,Luigi Dipasquale,26,Italy,Centre-Forward,CF,£180Th.,AS Cittadella,Italy,?,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/luigi-dipasquale/profil/spieler/28014
+Brescia Calcio,Denis Maccan,22,Italy,Centre-Forward,CF,-,AC Lumezzane,Italy,loan transfer,Out,2006,w,serie-b,https://www.transfermarkt.co.uk/denis-maccan/profil/spieler/23256
